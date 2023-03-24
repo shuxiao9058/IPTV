@@ -255,3 +255,7 @@ http://172.17.0.2:7088/udp/239.49.0.166:9322
 http://172.17.0.2:7088/udp/239.49.8.37:8000
 #EXTINF:-1 tvg-id="179" tvg-name="苏州生活资讯" tvg-logo="" group-title="",苏州生活资讯
 http://172.17.0.2:7088/udp/239.49.8.116:8000
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="",凤凰中文
+rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="" group-title="",凤凰资讯
+rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
