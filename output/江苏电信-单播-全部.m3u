@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url=https://epg.112114.xyz/pp.xml
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="" group-title="",CCTV1
 http://172.17.0.2:7088/udp/239.49.0.1:8000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="" group-title="",CCTV2
