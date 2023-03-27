@@ -7,8 +7,8 @@ rtp://239.49.8.50:9802
 rtp://239.49.9.31:6000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4HD" tvg-logo="" group-title="央视",CCTV4HD
 rtp://2239.49.8.51:9806
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5HD" tvg-logo="" group-title="央视",CCTV5HD
-rtp://239.49.8.18:9610
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
+rtp://239.49.0.5:9570
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+HD" tvg-logo="" group-title="央视",CCTV5+HD
 rtp://239.49.8.18:9610
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6HD" tvg-logo="" group-title="央视",CCTV6HD
