@@ -257,13 +257,13 @@ rtp://239.49.0.166:9322
 rtp://239.49.8.37:8000
 #EXTINF:-1 tvg-id="179" tvg-name="苏州生活资讯" tvg-logo="" group-title="本地台",苏州生活资讯
 rtp://239.49.8.116:8000
-#EXTINF:-1 tvg-id="1000" tvg-name="文物宝库HD" tvg-logo="" group-title="收费",文物宝库HD
+#EXTINF:-1 tvg-id="1000" tvg-name="文物宝库HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="收费",文物宝库HD
 rtp://239.49.0.209:8000
-#EXTINF:-1 tvg-id="1001" tvg-name="武术世界HD" tvg-logo="" group-title="收费",武术世界HD
+#EXTINF:-1 tvg-id="1001" tvg-name="武术世界HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="收费",武术世界HD
 rtp://239.49.0.205:8000
-#EXTINF:-1 tvg-id="1002" tvg-name="梨园HD" tvg-logo="" group-title="收费",梨园HD
+#EXTINF:-1 tvg-id="1002" tvg-name="梨园HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="收费",梨园HD
 rtp://239.49.8.193:8000
-#EXTINF:-1 tvg-id="1003" tvg-name="CCTV164K（SDR）" tvg-logo="" group-title="收费",CCTV164K（SDR）
+#EXTINF:-1 tvg-id="1003" tvg-name="CCTV奥林匹克频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道
 rtp://239.49.0.109:8000
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="凤凰",凤凰中文
 rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
