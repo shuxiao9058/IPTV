@@ -131,7 +131,9 @@ rtp://239.49.0.69:8544
 rtp://239.49.0.70:8552
 #EXTINF:-1 tvg-id="97" tvg-name="CETV2" tvg-logo="" group-title="其他",CETV2
 rtp://239.49.0.71:8560
-#EXTINF:-1 tvg-id="98" tvg-name="空中课堂" tvg-logo="" group-title="其他",空中课堂
+#EXTINF:-1 tvg-id="99" tvg-name="CETV4" tvg-logo="" group-title="其他",CETV4
+rtp:://239.49.0.125:8000
+#EXTINF:-1 tvg-id="101" tvg-name="空中课堂" tvg-logo="" group-title="其他",空中课堂
 rtp://239.49.0.72:8568
 #EXTINF:-1 tvg-id="102" tvg-name="中国气象" tvg-logo="" group-title="其他",中国气象
 rtp://239.49.0.76:8600
