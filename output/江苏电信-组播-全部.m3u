@@ -65,15 +65,15 @@ rtp://239.49.8.124:8000
 rtp://239.49.0.110:9014
 #EXTINF:-1 tvg-id="43" tvg-name="学习频道" tvg-logo="" group-title="其他",学习频道
 rtp://239.49.0.210:8884
-#EXTINF:-1 tvg-id="55" tvg-name="欢笑剧场4K" tvg-logo="" group-title="其他",欢笑剧场4K
+#EXTINF:-1 tvg-id="55" tvg-name="欢笑剧场4K" tvg-logo="" group-title="上海文广",欢笑剧场4K
 rtp://239.49.8.106:8000
 #EXTINF:-1 tvg-id="56" tvg-name="第一财经" tvg-logo="" group-title="其他",第一财经
 rtp://239.49.0.30:8232
 #EXTINF:-1 tvg-id="57" tvg-name="金色学堂" tvg-logo="" group-title="其他",金色学堂
 rtp://239.49.0.31:8240
-#EXTINF:-1 tvg-id="58" tvg-name="都市剧场" tvg-logo="" group-title="其他",都市剧场
+#EXTINF:-1 tvg-id="58" tvg-name="都市剧场" tvg-logo="" group-title="上海文广",都市剧场
 rtp://239.49.0.32:8248
-#EXTINF:-1 tvg-id="59" tvg-name="动漫秀场" tvg-logo="" group-title="其他",动漫秀场
+#EXTINF:-1 tvg-id="59" tvg-name="动漫秀场" tvg-logo="" group-title="上海文广",动漫秀场
 rtp://239.49.0.33:8256
 #EXTINF:-1 tvg-id="61" tvg-name="乐游" tvg-logo="" group-title="其他",乐游
 rtp://239.49.0.35:8272
@@ -81,8 +81,8 @@ rtp://239.49.0.35:8272
 rtp://239.49.0.36:8280
 #EXTINF:-1 tvg-id="66" tvg-name="游戏风云" tvg-logo="" group-title="其他",游戏风云
 rtp://239.49.0.40:8312
-#EXTINF:-1 tvg-id="72" tvg-name="生活时尚" tvg-logo="" group-title="其他",生活时尚
-rtp://239.49.0.46:8360
+#EXTINF:-1 tvg-id="72" tvg-name="生活时尚HD" tvg-logo="" group-title="上海文广",生活时尚HD
+rtp://239.49.8.175:6000
 #EXTINF:-1 tvg-id="74" tvg-name="东方卫视HD" tvg-logo="" group-title="卫视",东方卫视HD
 rtp://239.49.8.17:9606
 #EXTINF:-1 tvg-id="75" tvg-name="北京卫视HD" tvg-logo="" group-title="卫视",北京卫视HD
@@ -217,9 +217,9 @@ rtp://239.49.8.41:8012
 rtp://239.49.8.43:8028
 #EXTINF:-1 tvg-id="844" tvg-name="乐游HD" tvg-logo="" group-title="其他",乐游HD
 rtp://239.49.8.44:8036
-#EXTINF:-1 tvg-id="845" tvg-name="都市剧场HD" tvg-logo="" group-title="其他",都市剧场HD
+#EXTINF:-1 tvg-id="845" tvg-name="都市剧场HD" tvg-logo="" group-title="上海文广",都市剧场HD
 rtp://239.49.8.45:8044
-#EXTINF:-1 tvg-id="846" tvg-name="欢笑剧场HD" tvg-logo="" group-title="其他",欢笑剧场HD
+#EXTINF:-1 tvg-id="846" tvg-name="欢笑剧场HD" tvg-logo="" group-title="上海文广",欢笑剧场HD
 rtp://239.49.8.47:8060
 #EXTINF:-1 tvg-id="920" tvg-name="江苏卫视HD" tvg-logo="" group-title="卫视",江苏卫视HD
 rtp://239.49.8.16:9602
@@ -267,6 +267,14 @@ rtp://239.49.0.205:8000
 rtp://239.49.8.193:8000
 #EXTINF:-1 tvg-id="1003" tvg-name="CCTV奥林匹克频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道
 rtp://239.49.0.109:8000
+#EXTINF:-1 tvg-id="1004" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="金鹰",金鹰纪实
+rtp://239.49.8.79:8000
+#EXTINF:-1 tvg-id="1005" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="金鹰",金鹰卡通
+rtp://239.49.8.33:8000
+#EXTINF:-1 tvg-id="1006" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海文广",全纪实
+rtp://239.49.8.179:6000
+#EXTINF:-1 tvg-id="1007" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海文广",魅力足球
+rtp://239.49.8.181:6000
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="凤凰",凤凰中文
 rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="" group-title="凤凰",凤凰资讯
