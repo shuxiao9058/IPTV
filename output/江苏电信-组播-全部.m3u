@@ -87,8 +87,8 @@ rtp://239.49.8.175:6000
 rtp://239.49.8.17:9606
 #EXTINF:-1 tvg-id="75" tvg-name="北京卫视HD" tvg-logo="" group-title="卫视",北京卫视HD
 rtp://239.49.8.11:9414
-#EXTINF:-1 tvg-id="76" tvg-name="浙江卫视HD" tvg-logo="" group-title="卫视",浙江卫视HD
-rtp://239.49.8.20:9618
+#EXTINF:-1 tvg-id="76" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
+rtp://239.49.0.50:8392
 #EXTINF:-1 tvg-id="77" tvg-name="辽宁卫视HD" tvg-logo="" group-title="卫视",辽宁卫视HD
 rtp://239.49.8.48:8000
 #EXTINF:-1 tvg-id="78" tvg-name="安徽卫视HD" tvg-logo="" group-title="卫视",安徽卫视HD
