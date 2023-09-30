@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="http://192.168.199.118:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.199.118:34400/xmltv/xteve.xml"
-#EXTINF:0 channelID="x-ID.235" tvg-chno="1000" tvg-name="CCTV1HD" tvg-id="1000" tvg-logo="http://192.168.199.118:34400/images/7b6063424c0a8b7fdad5d4e9141b43d5.png" group-title="央视",CCTV1HD
+#EXTINF:0 channelID="x-ID.235" tvg-chno="1000" tvg-name="CCTV1HD" tvg-id="1000" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
 rtp://239.49.8.19:9614
-#EXTINF:0 channelID="x-ID.2" tvg-chno="1001" tvg-name="CCTV2HD" tvg-id="1001" tvg-logo="http://192.168.199.118:34400/images/2c1e963964c1d109f61142f4f22040f5.png" group-title="央视",CCTV2HD
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1001" tvg-name="CCTV2HD" tvg-id="1001" tvg-logo="https://upload.112114.xyz/logo/CCTV2touming.png" group-title="央视",CCTV2HD
 rtp://239.49.8.50:9802
-#EXTINF:0 channelID="x-ID.3" tvg-chno="1002" tvg-name="CCTV3HD" tvg-id="1002" tvg-logo="http://192.168.199.118:34400/images/2308abe7bdb77172a08d4debc31599e8.png" group-title="央视",CCTV3HD
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1002" tvg-name="CCTV3HD" tvg-id="1002" tvg-logo="https://upload.112114.xyz/logo/CCTV3touming.png" group-title="央视",CCTV3HD
 rtp://239.49.9.31:6000
-#EXTINF:0 channelID="x-ID.4" tvg-chno="1003" tvg-name="CCTV4HD" tvg-id="1003" tvg-logo="http://192.168.199.118:34400/images/cf69819382ed940e4ef0f797bda4a8d4.png" group-title="央视",CCTV4HD
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1003" tvg-name="CCTV4HD" tvg-id="1003" tvg-logo="https://upload.112114.xyz/logo/CCTV4touming.png" group-title="央视",CCTV4HD
 rtp://2239.49.8.51:9806
-#EXTINF:0 channelID="x-ID.33" tvg-chno="1004" tvg-name="CCTV5" tvg-id="1004" tvg-logo="http://192.168.199.118:34400/images/3010f403437ac0253faba44a386a0de1.png" group-title="央视",CCTV5
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1004" tvg-name="CCTV5" tvg-id="1004" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 rtp://239.49.0.5:9570
-#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="CCTV5+HD" tvg-id="1005" tvg-logo="http://192.168.199.118:34400/images/f0c6e77017af91f3fe2c38932d7f3551.png" group-title="央视",CCTV5+HD
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="CCTV5+HD" tvg-id="1005" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+HD
 rtp://239.49.8.18:9610
-#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="CCTV6HD" tvg-id="1006" tvg-logo="http://192.168.199.118:34400/images/4f3f058404c1b0758fd32fddd688c712.png" group-title="央视",CCTV6HD
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="CCTV6HD" tvg-id="1006" tvg-logo="https://upload.112114.xyz/logo/CCTV6touming.png" group-title="央视",CCTV6HD
 rtp://239.49.9.33:6000
-#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="CCTV8HD" tvg-id="1007" tvg-logo="http://192.168.199.118:34400/images/20bdf7e971ecf329a727112ddc088272.png" group-title="央视",CCTV8HD
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="CCTV8HD" tvg-id="1007" tvg-logo="https://upload.112114.xyz/logo/CCTV8touming.png" group-title="央视",CCTV8HD
 rtp://239.49.9.34:6000
 #EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="CCTV9HD" tvg-id="1008" tvg-logo="http://192.168.199.118:34400/images/581b3468932744ce27d02bc57400fea5.png" group-title="央视",CCTV9HD
 rtp://239.49.8.53:9814
