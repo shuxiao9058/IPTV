@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1HD" tvg-logo="" group-title="央视",CCTV1HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
 rtp://239.49.8.19:9614
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2HD" tvg-logo="" group-title="央视",CCTV2HD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2HD" tvg-logo="https://upload.112114.xyz/logo/CCTV2touming.png" group-title="央视",CCTV2HD
 rtp://239.49.8.50:9802
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3HD" tvg-logo="" group-title="央视",CCTV3HD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3HD" tvg-logo="https://upload.112114.xyz/logo/CCTV3touming.png" group-title="央视",CCTV3HD
 rtp://239.49.9.31:6000
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4HD" tvg-logo="" group-title="央视",CCTV4HD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4HD" tvg-logo="https://upload.112114.xyz/logo/CCTV4touming.png" group-title="央视",CCTV4HD
 rtp://2239.49.8.51:9806
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 rtp://239.49.0.5:9570
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+HD" tvg-logo="" group-title="央视",CCTV5+HD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+HD
 rtp://239.49.8.18:9610
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6HD" tvg-logo="" group-title="央视",CCTV6HD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6HD" tvg-logo="https://upload.112114.xyz/logo/CCTV6touming.png" group-title="央视",CCTV6HD
 rtp://239.49.9.33:6000
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://upload.112114.xyz/logo/CCTV7touming.png" group-title="央视",CCTV7
 rtp://239.49.8.126:8000
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8HD" tvg-logo="" group-title="央视",CCTV8HD
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8HD" tvg-logo="https://upload.112114.xyz/logo/CCTV8touming.png" group-title="央视",CCTV8HD
 rtp://239.49.9.34:6000
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9HD" tvg-logo="" group-title="央视",CCTV9HD
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9HD" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9HD
 rtp://239.49.8.53:9814
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10HD" tvg-logo="" group-title="央视",CCTV10HD
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10HD" tvg-logo="https://upload.112114.xyz/logo/cctv10.png" group-title="央视",CCTV10HD
 rtp://239.49.8.54:9818
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://upload.112114.xyz/logo/cctv11_ad.png" group-title="央视",CCTV11
 rtp://239.49.0.11:8080
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12HD" tvg-logo="" group-title="央视",CCTV12HD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12HD" tvg-logo="https://upload.112114.xyz/logo/cctv12_ad.png" group-title="央视",CCTV12HD
 rtp://239.49.8.55:9822
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV新闻" tvg-logo="" group-title="央视",CCTV新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV新闻" tvg-logo="https://upload.112114.xyz/logo/cctv13_ad.png" group-title="央视",CCTV新闻
 rtp://239.49.0.13:8096
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV少儿HD" tvg-logo="" group-title="央视",CCTV少儿HD
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV少儿HD" tvg-logo="https://upload.112114.xyz/logo/cctv14_ad.png" group-title="央视",CCTV少儿HD
 rtp://239.49.8.56:9826
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV音乐" tvg-logo="" group-title="央视",CCTV音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV音乐" tvg-logo="https://upload.112114.xyz/logo/cctv15_ad.png" group-title="央视",CCTV音乐
 rtp://239.49.0.15:8112
-#EXTINF:-1 tvg-id="17" tvg-name="CGTN" tvg-logo="" group-title="央视",CGTN
+#EXTINF:-1 tvg-id="17" tvg-name="CGTN" tvg-logo="https://upload.112114.xyz/logo/cgtn.png" group-title="央视",CGTN
 rtp://239.49.0.9:8064
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17HD" tvg-logo="" group-title="央视",CCTV17HD
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17HD" tvg-logo="https://upload.112114.xyz/logo/cctv17_ad.png" group-title="央视",CCTV17HD
 rtp://239.49.8.132:6000
-#EXTINF:-1 tvg-id="19" tvg-name="江苏卫视HD" tvg-logo="" group-title="卫视",江苏卫视HD
+#EXTINF:-1 tvg-id="19" tvg-name="江苏卫视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
 rtp://239.49.8.16:9602
-#EXTINF:-1 tvg-id="20" tvg-name="江苏城市" tvg-logo="" group-title="本地台",江苏城市
+#EXTINF:-1 tvg-id="20" tvg-name="江苏城市" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82.png" group-title="本地台",江苏城市
 rtp://239.49.0.17:8128
-#EXTINF:-1 tvg-id="21" tvg-name="江苏综艺" tvg-logo="" group-title="本地台",江苏综艺
+#EXTINF:-1 tvg-id="21" tvg-name="江苏综艺" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA.png" group-title="本地台",江苏综艺
 rtp://239.49.0.18:8136
-#EXTINF:-1 tvg-id="22" tvg-name="江苏体育休闲" tvg-logo="" group-title="本地台",江苏体育休闲
+#EXTINF:-1 tvg-id="22" tvg-name="江苏体育休闲" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2.png" group-title="本地台",江苏体育休闲
 rtp://239.49.0.19:8144
 #EXTINF:-1 tvg-id="23" tvg-name="江苏影视HD" tvg-logo="" group-title="本地台",江苏影视HD
 rtp://239.49.9.38:6000
