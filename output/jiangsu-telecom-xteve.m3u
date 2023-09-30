@@ -18,7 +18,7 @@ rtp://239.49.9.34:6000
 #EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="CCTV9HD" tvg-id="1008" tvg-logo="http://192.168.199.118:34400/images/581b3468932744ce27d02bc57400fea5.png" group-title="央视",CCTV9HD
 rtp://239.49.8.53:9814
 #EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="CCTV10HD" tvg-id="1009" tvg-logo="http://192.168.199.118:34400/images/1dbc2ed5f1ffff518c61e436775f3d53.png" group-title="央视",CCTV10HD
-http://192.168.199.118:34400/stream/523f5733386b202b38c24c2bc1aeee97
+rtp://239.49.8.54:9818
 #EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="CCTV12HD" tvg-id="1010" tvg-logo="http://192.168.199.118:34400/images/75d82912543b81f145be6050d925ce5c.png" group-title="央视",CCTV12HD
 rtp://239.49.8.55:9822
 #EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="CCTV少儿HD" tvg-id="1011" tvg-logo="http://192.168.199.118:34400/images/3ade7f73824feb88e96af32ad6829621.png" group-title="央视",CCTV少儿HD
@@ -70,7 +70,7 @@ rtp://239.49.0.209:8000
 #EXTINF:0 channelID="x-ID.134" tvg-chno="1034" tvg-name="CCTV7" tvg-id="1034" tvg-logo="http://192.168.199.118:34400/images/f012ea855b1188e553f93d29467bf734.png" group-title="央视",CCTV7
 rtp://239.49.8.126:8000
 #EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="武术世界HD" tvg-id="1035" tvg-logo="http://192.168.199.118:34400/images/08c86689918add6233ee2afdb3c4e667.jpg" group-title="收费",武术世界HD
-http://192.168.199.118:34400/stream/dd3829e85b332d0d057db7fdea4d88c6
+rtp://239.49.0.205:8000
 #EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="梨园HD" tvg-id="1036" tvg-logo="http://192.168.199.118:34400/images/dbc376d44854ae2c7c95a6a8483ce23b.jpg" group-title="收费",梨园HD
 rtp://239.49.8.193:8000
 #EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="CCTV奥林匹克频道" tvg-id="1037" tvg-logo="http://192.168.199.118:34400/images/6ba2f8d4119de46e6394bc3eca5625c8.png" group-title="央视",CCTV奥林匹克频道
@@ -105,136 +105,122 @@ rtp://239.49.0.21:8160
 rtp://239.49.0.22:8168
 #EXTINF:0 channelID="x-ID.153" tvg-chno="1153" tvg-name="靓妆频道" tvg-id="1153" tvg-logo="http://192.168.199.118:34400/images/9531bbca407dbc24550d8ea909ff0b88.png" group-title="其他",靓妆频道
 rtp://239.49.0.150:9194
-#EXTINF:0 channelID="x-ID.154" tvg-chno="1154" tvg-name="环球购物" tvg-id="1154" tvg-logo="" group-title="其他",环球购物
-rtp://239.49.8.123:8000
 #EXTINF:0 channelID="x-ID.155" tvg-chno="1155" tvg-name="CCTV中视购物" tvg-id="1155" tvg-logo="http://192.168.199.118:34400/images/f4a232405d39aaada4c50b4cd1da991f.png" group-title="央视",CCTV中视购物
 rtp://239.49.0.112:8000
 #EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="家有购物" tvg-id="1156" tvg-logo="http://192.168.199.118:34400/images/d6f6e64428824825c8a9fddaa0b7beae.png" group-title="其他",家有购物
 rtp://239.49.8.124:8000
-#EXTINF:0 channelID="x-ID.157" tvg-chno="1157" tvg-name="央广购物HD" tvg-id="1157" tvg-logo="http://192.168.199.118:34400/images/a940b7d62ef45f64cbe50a716a40c926.png" group-title="央视",央广购物
-rtp://239.49.0.39:8000
 #EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="学习频道" tvg-id="1158" tvg-logo="http://192.168.199.118:34400/images/bd94057f50dd99eabeee81c79713a5e6.png" group-title="其他",学习频道
 rtp://239.49.0.210:8884
-#EXTINF:0 channelID="x-ID.160" tvg-chno="1160" tvg-name="第一财经HD" tvg-id="1160" tvg-logo="http://192.168.199.118:34400/images/4b335a3a3546ca69ce556ae80d15c71e.png" group-title="其他",第一财经
-rtp://239.49.8.37:8000
-#EXTINF:0 channelID="x-ID.162" tvg-chno="1162" tvg-name="都市剧场" tvg-id="1162" tvg-logo="http://192.168.199.118:34400/images/7678f06553ff0b10c59e11643e618c36.png" group-title="其他",都市剧场
-rtp://239.49.8.45:8044
-#EXTINF:0 channelID="x-ID.163" tvg-chno="1163" tvg-name="动漫秀场" tvg-id="1163" tvg-logo="http://192.168.199.118:34400/images/12e564ff5bb6d4a881ae1b7453c6cf4f.png" group-title="其他",动漫秀场
-rtp://239.49.8.43:8028
-#EXTINF:0 channelID="x-ID.164" tvg-chno="1164" tvg-name="乐游" tvg-id="1164" tvg-logo="http://192.168.199.118:34400/images/382f40855147599cc009936eb9d4bc6c.png" group-title="其他",乐游
-http://192.168.199.118:34400/stream/cb0d6ca79e8b5a4b0792d77742835e3a
-#EXTINF:0 channelID="x-ID.166" tvg-chno="1166" tvg-name="游戏风云" tvg-id="1166" tvg-logo="http://192.168.199.118:34400/images/9cd2f970f8f48158873b36ab6e7b6f50.png" group-title="其他",游戏风云
-http://192.168.199.118:34400/stream/3029d53822bcb88cb49d3c0391f5a5d9
 #EXTINF:0 channelID="x-ID.187" tvg-chno="1187" tvg-name="山西卫视" tvg-id="1187" tvg-logo="http://192.168.199.118:34400/images/f7683f93fee191cbb321ec68963dc62c.png" group-title="卫视",山西卫视
-http://192.168.199.118:34400/stream/1a83fcfceb2020eb0f834acf48a9324c
+rtp://239.49.0.67:8528
 #EXTINF:0 channelID="x-ID.189" tvg-chno="1189" tvg-name="青海卫视" tvg-id="1189" tvg-logo="http://192.168.199.118:34400/images/c32fd1ba3dedeb4f890d0a3acbb9878e.png" group-title="卫视",青海卫视
-http://192.168.199.118:34400/stream/098a589df2f87728fdb4078adcd8003b
+rtp://239.49.0.69:8544
 #EXTINF:0 channelID="x-ID.190" tvg-chno="1190" tvg-name="CETV1" tvg-id="1190" tvg-logo="http://192.168.199.118:34400/images/5075db41fc1c2bebf04eabcebfe88fe4.png" group-title="其他",CETV1
-http://192.168.199.118:34400/stream/690ed8227da4605420a985c219db3187
+rtp://239.49.0.70:8552
 #EXTINF:0 channelID="x-ID.191" tvg-chno="1191" tvg-name="CETV2" tvg-id="1191" tvg-logo="http://192.168.199.118:34400/images/48f7044e637ba19734876ede2382418a.png" group-title="其他",CETV2
-http://192.168.199.118:34400/stream/6175a014aafe769d24a7c436ffeea218
+rtp://239.49.0.71:8560
 #EXTINF:0 channelID="x-ID.192" tvg-chno="1192" tvg-name="空中课堂" tvg-id="1192" tvg-logo="http://192.168.199.118:34400/images/9698a02b607a7f7ba324f0c4c1cabdac.png" group-title="其他",空中课堂
-http://192.168.199.118:34400/stream/d17cf4ad53e15bc7ad6b9f17a2cb40cf
+rtp://239.49.0.72:8568
 #EXTINF:0 channelID="x-ID.195" tvg-chno="1195" tvg-name="直播室108" tvg-id="1195" tvg-logo="" group-title="直播",直播室108
-http://192.168.199.118:34400/stream/ea35217c9174081176b747c26c8b315a
+rtp://239.49.8.58:9334
 #EXTINF:0 channelID="x-ID.196" tvg-chno="1196" tvg-name="直播室109" tvg-id="1196" tvg-logo="" group-title="直播",直播室109
-http://192.168.199.118:34400/stream/d487dda778b459d02c96099ace38ec69
+rtp://239.49.8.59:9338
 #EXTINF:0 channelID="x-ID.197" tvg-chno="1197" tvg-name="直播室110" tvg-id="1197" tvg-logo="" group-title="直播",直播室110
-http://192.168.199.118:34400/stream/9a39aa75869a69366b4a844dde9c5210
+rtp://239.49.8.60:9342
 #EXTINF:0 channelID="x-ID.198" tvg-chno="1198" tvg-name="直播室111" tvg-id="1198" tvg-logo="" group-title="直播",直播室111
-http://192.168.199.118:34400/stream/eac93965ea9f843c4bfbd303c6bd8f30
+rtp://239.49.8.61:9346
 #EXTINF:0 channelID="x-ID.205" tvg-chno="1205" tvg-name="央视精品" tvg-id="1205" tvg-logo="http://192.168.199.118:34400/images/eb66ca7951ca959a6927965e65276a3c.png" group-title="央视",央视精品
-http://192.168.199.118:34400/stream/66a066918a6964e294711c3ddd9b4bd3
+rtp://239.49.0.156:9242
 #EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="央视怀旧剧场" tvg-id="1206" tvg-logo="" group-title="央视",央视怀旧剧场
-http://192.168.199.118:34400/stream/d82b0141d117129f072eb67a469cc36d
+rtp://239.49.0.157:9250
 #EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="导视" tvg-id="1209" tvg-logo="http://192.168.199.118:34400/images/ed2daa980b881abe161e9dda7515104d.png" group-title="其他",导视
-http://192.168.199.118:34400/stream/512596577f1e05bce079425c2041670e
+rtp://239.49.0.80:8632
 #EXTINF:0 channelID="x-ID.210" tvg-chno="1210" tvg-name="直播室208" tvg-id="1210" tvg-logo="" group-title="直播",直播室208
-http://192.168.199.118:34400/stream/8d21d45e36a2783086dfb8b2bd8ee262
+rtp://239.49.0.140:9350
 #EXTINF:0 channelID="x-ID.211" tvg-chno="1211" tvg-name="直播室209" tvg-id="1211" tvg-logo="" group-title="直播",直播室209
-http://192.168.199.118:34400/stream/d46a821b56c6fdc2c3a23b4fbdb9c480
+rtp://239.49.0.141:9354
 #EXTINF:0 channelID="x-ID.212" tvg-chno="1212" tvg-name="直播室210" tvg-id="1212" tvg-logo="" group-title="直播",直播室210
-http://192.168.199.118:34400/stream/391e287cb72d4ff12627b7de493350bb
+rtp://239.49.0.142:9358
 #EXTINF:0 channelID="x-ID.213" tvg-chno="1213" tvg-name="直播室211" tvg-id="1213" tvg-logo="" group-title="直播",直播室211
-http://192.168.199.118:34400/stream/8c891c8638b2cf5d8fcceb1ffe76e417
+rtp://239.49.0.143:9362
 #EXTINF:0 channelID="x-ID.214" tvg-chno="1214" tvg-name="精彩推荐" tvg-id="1214" tvg-logo="" group-title="其他",精彩推荐
-http://192.168.199.118:34400/stream/b7469258f723f9eebacb3aaa0c6c7313
+rtp://239.49.0.190:9458
 #EXTINF:0 channelID="x-ID.215" tvg-chno="1215" tvg-name="直播室101" tvg-id="1215" tvg-logo="" group-title="直播",直播室101
-http://192.168.199.118:34400/stream/d20eecc7e8de40028a25134ff3caa530
+rtp://239.49.8.21:9136
 #EXTINF:0 channelID="x-ID.216" tvg-chno="1216" tvg-name="直播室102" tvg-id="1216" tvg-logo="" group-title="直播",直播室102
-http://192.168.199.118:34400/stream/4d57a8a8e15167e5abc6bd41e815cc5c
+rtp://239.49.8.22:9128
 #EXTINF:0 channelID="x-ID.217" tvg-chno="1217" tvg-name="直播室103" tvg-id="1217" tvg-logo="" group-title="直播",直播室103
-http://192.168.199.118:34400/stream/e087ac7f7f19a5288f8533b5be106e54
+rtp://239.49.8.23:9120
 #EXTINF:0 channelID="x-ID.218" tvg-chno="1218" tvg-name="直播室104" tvg-id="1218" tvg-logo="" group-title="直播",直播室104
-http://192.168.199.118:34400/stream/2fee70034bde07af8614725637dfe33f
+rtp://239.49.8.24:9112
 #EXTINF:0 channelID="x-ID.219" tvg-chno="1219" tvg-name="直播室105" tvg-id="1219" tvg-logo="" group-title="直播",直播室105
-http://192.168.199.118:34400/stream/6a560b90cf72253243306e180dc11868
+rtp://239.49.8.25:9104
 #EXTINF:0 channelID="x-ID.220" tvg-chno="1220" tvg-name="直播室106" tvg-id="1220" tvg-logo="" group-title="直播",直播室106
-http://192.168.199.118:34400/stream/444f6fa1a8a1008cb1ee1bd909109859
+rtp://239.49.8.26:9096
 #EXTINF:0 channelID="x-ID.221" tvg-chno="1221" tvg-name="直播室107" tvg-id="1221" tvg-logo="" group-title="直播",直播室107
-http://192.168.199.118:34400/stream/3582ea25c246649cdb61861b5f4eec20
+rtp://239.49.8.27:9088
 #EXTINF:0 channelID="x-ID.222" tvg-chno="1222" tvg-name="直播室201" tvg-id="1222" tvg-logo="" group-title="直播",直播室201
-http://192.168.199.118:34400/stream/52173b1bea4ca30df00db354f22ed62f
+rtp://239.49.0.135:9072
 #EXTINF:0 channelID="x-ID.223" tvg-chno="1223" tvg-name="直播室202" tvg-id="1223" tvg-logo="" group-title="直播",直播室202
-http://192.168.199.118:34400/stream/07339e2dc9fb1a6d8f73951488d8caac
+rtp://239.49.0.134:9064
 #EXTINF:0 channelID="x-ID.224" tvg-chno="1224" tvg-name="直播室203" tvg-id="1224" tvg-logo="" group-title="直播",直播室203
-http://192.168.199.118:34400/stream/5bf15d5f168b2ad640f431a5bdbec807
+rtp://239.49.0.133:9056
 #EXTINF:0 channelID="x-ID.225" tvg-chno="1225" tvg-name="直播室204" tvg-id="1225" tvg-logo="" group-title="直播",直播室204
-http://192.168.199.118:34400/stream/14c8471d6f5270b84b185df56c373c3b
+rtp://239.49.0.132:9048
 #EXTINF:0 channelID="x-ID.226" tvg-chno="1226" tvg-name="直播室205" tvg-id="1226" tvg-logo="" group-title="直播",直播室205
-http://192.168.199.118:34400/stream/8cabffbfe16bb40495471b4360f0d9ec
+rtp://239.49.0.131:9040
 #EXTINF:0 channelID="x-ID.227" tvg-chno="1227" tvg-name="直播室206" tvg-id="1227" tvg-logo="" group-title="直播",直播室206
-http://192.168.199.118:34400/stream/6c3f6a49b0fe73064c2d2142d41cee82
+rtp://239.49.0.130:9032
 #EXTINF:0 channelID="x-ID.228" tvg-chno="1228" tvg-name="直播室207" tvg-id="1228" tvg-logo="" group-title="直播",直播室207
-http://192.168.199.118:34400/stream/09c89cad1694fac5d96158288a0dfce9
+rtp://239.49.0.129:9024
 #EXTINF:0 channelID="x-ID.229" tvg-chno="1229" tvg-name="生活时尚HD" tvg-id="1229" tvg-logo="http://192.168.199.118:34400/images/d0f91a54a471c47f42e4b00ed0b82f8d.png" group-title="其他",生活时尚HD
-http://192.168.199.118:34400/stream/adbcb88d672e84d6abd9c1c702a1d41d
+rtp://239.49.8.40:8004
 #EXTINF:0 channelID="x-ID.230" tvg-chno="1230" tvg-name="游戏风云HD" tvg-id="1230" tvg-logo="http://192.168.199.118:34400/images/9cd2f970f8f48158873b36ab6e7b6f50.png" group-title="其他",游戏风云HD
-http://192.168.199.118:34400/stream/36cb9312effbec7fe75064e6643f52cf
+rtp://239.49.8.41:8012
 #EXTINF:0 channelID="x-ID.231" tvg-chno="1231" tvg-name="动漫秀场HD" tvg-id="1231" tvg-logo="http://192.168.199.118:34400/images/12e564ff5bb6d4a881ae1b7453c6cf4f.png" group-title="其他",动漫秀场HD
-http://192.168.199.118:34400/stream/ebd900e7bd2e93b2e51e43bf0d6bd930
+rtp://239.49.8.43:8028
 #EXTINF:0 channelID="x-ID.232" tvg-chno="1232" tvg-name="乐游HD" tvg-id="1232" tvg-logo="http://192.168.199.118:34400/images/382f40855147599cc009936eb9d4bc6c.png" group-title="其他",乐游HD
-http://192.168.199.118:34400/stream/b34cc519bc3fa16a1529b4bda886b348
+rtp://239.49.8.44:8036
 #EXTINF:0 channelID="x-ID.233" tvg-chno="1233" tvg-name="都市剧场HD" tvg-id="1233" tvg-logo="http://192.168.199.118:34400/images/7678f06553ff0b10c59e11643e618c36.png" group-title="其他",都市剧场HD
-http://192.168.199.118:34400/stream/0a516a08637c72ed45ad18cec1550d9b
+rtp://239.49.8.45:8044
 #EXTINF:0 channelID="x-ID.234" tvg-chno="1234" tvg-name="欢笑剧场HD" tvg-id="1234" tvg-logo="http://192.168.199.118:34400/images/424496aced316a833df7697bdc027bff.png" group-title="其他",欢笑剧场HD
-http://192.168.199.118:34400/stream/8ac0b3b1a7c3148e12c6b4ad7d3ec11c
+rtp://239.49.8.47:8060
 #EXTINF:0 channelID="x-ID.237" tvg-chno="1237" tvg-name="江苏卫视HD" tvg-id="1237" tvg-logo="http://192.168.199.118:34400/images/73229d87cd98d172793e202fd07b65e7.png" group-title="卫视",江苏卫视HD
-http://192.168.199.118:34400/stream/31f6f0c207a5f7241a6169968df21dac
+rtp://239.49.8.16:9602
 #EXTINF:0 channelID="x-ID.238" tvg-chno="1238" tvg-name="广西卫视HD" tvg-id="1238" tvg-logo="http://192.168.199.118:34400/images/03a20ce6a6db8af311013806652d3b1d.png" group-title="卫视",广西卫视HD
-http://192.168.199.118:34400/stream/4a34e09cb0b50312dcf20abb308a2f8e
+rtp://239.49.8.10:8000
 #EXTINF:0 channelID="x-ID.239" tvg-chno="1239" tvg-name="天津卫视HD" tvg-id="1239" tvg-logo="http://192.168.199.118:34400/images/f59e622ff307bba65cacd1e81343caaf.png" group-title="卫视",天津卫视HD
-http://192.168.199.118:34400/stream/6ea9bf3c67a391d196bd689d3e158dda
+rtp://239.49.8.35:8620
 #EXTINF:0 channelID="x-ID.240" tvg-chno="1240" tvg-name="浙江卫视HD" tvg-id="1240" tvg-logo="http://192.168.199.118:34400/images/9555055b8d01b4642afc0e6d469e8c18.png" group-title="卫视",浙江卫视HD
-http://192.168.199.118:34400/stream/5dbcb3e4983ccbfe8881adc368249216
+rtp://239.49.8.20:9618
 #EXTINF:0 channelID="x-ID.241" tvg-chno="1241" tvg-name="环球购物HD" tvg-id="1241" tvg-logo="" group-title="其他",环球购物HD
-http://192.168.199.118:34400/stream/9ce93e4612a4a11fa85fa20237f81522
+rtp://239.49.8.123:8000
 #EXTINF:0 channelID="x-ID.242" tvg-chno="1242" tvg-name="海南卫视HD" tvg-id="1242" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.pngg" group-title="卫视",海南卫视HD
-http://192.168.199.118:34400/stream/4ce07920ebb60eda289c41a97589dfed
+rtp://239.49.8.83:8000
 #EXTINF:0 channelID="x-ID.243" tvg-chno="1243" tvg-name="东方卫视HD" tvg-id="1243" tvg-logo="http://192.168.199.118:34400/images/e085df055bba7a3691302f78439741f8.png" group-title="卫视",东方卫视HD
-http://192.168.199.118:34400/stream/0874ef9077713b6eb4f91c70eb721460
+rtp://239.49.8.17:9606
 #EXTINF:0 channelID="x-ID.244" tvg-chno="1244" tvg-name="北京卫视HD" tvg-id="1244" tvg-logo="http://192.168.199.118:34400/images/e15332dc1f9d02d4812c9f5da4cac98c.png" group-title="卫视",北京卫视HD
-http://192.168.199.118:34400/stream/6044ae0399d9dc8eabcda97e45e365c7
+rtp://239.49.8.11:9414
 #EXTINF:0 channelID="x-ID.245" tvg-chno="1245" tvg-name="湖南卫视HD" tvg-id="1245" tvg-logo="http://192.168.199.118:34400/images/ef4cbc965ecbb6f0844d5e1fe11d77bf.png" group-title="卫视",湖南卫视HD
-http://192.168.199.118:34400/stream/922cbbd15a954e1155e3ee67aaad272f
+rtp://239.49.8.12:9418
 #EXTINF:0 channelID="x-ID.246" tvg-chno="1246" tvg-name="广东卫视HD" tvg-id="1246" tvg-logo="http://192.168.199.118:34400/images/263d25c0b76dc2a18966d684b33b320e.png" group-title="卫视",广东卫视HD
-http://192.168.199.118:34400/stream/c617d8a9070e19106418c8f97c9af0a3
+rtp://239.49.8.13:9422
 #EXTINF:0 channelID="x-ID.247" tvg-chno="1247" tvg-name="黑龙江卫视HD" tvg-id="1247" tvg-logo="http://192.168.199.118:34400/images/09cad85e199c11c4f0f1832ca29c2573.png" group-title="卫视",黑龙江卫视HD
-http://192.168.199.118:34400/stream/ffcdfcc87107e99a7c5ccb6e90d1c10b
+rtp://239.49.8.14:9426
 #EXTINF:0 channelID="x-ID.248" tvg-chno="1248" tvg-name="深圳卫视HD" tvg-id="1248" tvg-logo="http://192.168.199.118:34400/images/f80070ac3a4c28463a9203acc1c9fddf.png" group-title="卫视",深圳卫视HD
-http://192.168.199.118:34400/stream/f267f7ba693000a104844d0aaec4e705
+rtp://239.49.8.15:9430
 #EXTINF:0 channelID="x-ID.249" tvg-chno="1249" tvg-name="山东卫视HD" tvg-id="1249" tvg-logo="http://192.168.199.118:34400/images/68a6c4a852bb7ee1ee1ce231347f38e4.png" group-title="卫视",山东卫视HD
-http://192.168.199.118:34400/stream/fae25648d2d93b56a722c5f53e555c0e
+rtp://239.49.8.7:9306
 #EXTINF:0 channelID="x-ID.250" tvg-chno="1250" tvg-name="湖北卫视HD" tvg-id="1250" tvg-logo="http://192.168.199.118:34400/images/6bf39db0a007ddbf939ba5b03f382732.png" group-title="卫视",湖北卫视HD
-http://192.168.199.118:34400/stream/00b03c24b037f9ce5afa758d93085874
+rtp://239.49.8.8:9632
 #EXTINF:0 channelID="x-ID.252" tvg-chno="1252" tvg-name="央广购物HD" tvg-id="1252" tvg-logo="http://192.168.199.118:34400/images/a940b7d62ef45f64cbe50a716a40c926.png" group-title="央视",央广购物HD
-http://192.168.199.118:34400/stream/258fce9c21a13aba7c1e932f5a1e2692
+rtp://239.49.0.39:8000
 #EXTINF:0 channelID="x-ID.253" tvg-chno="1253" tvg-name="财富天下" tvg-id="1253" tvg-logo="http://192.168.199.118:34400/images/80a7c0f5392675a5554ec6c721887552.png" group-title="其他",财富天下
-http://192.168.199.118:34400/stream/62e7fcf9505199e9aa0b98f5b88c5ea2
+rtp://239.49.0.166:9322
 #EXTINF:0 channelID="x-ID.254" tvg-chno="1254" tvg-name="第一财经HD" tvg-id="1254" tvg-logo="http://192.168.199.118:34400/images/af413f8cf47efbd09eaa811e632f38ee.png" group-title="其他",第一财经HD
-http://192.168.199.118:34400/stream/0838b1b562a631f199066ca55be20951
+rtp://239.49.8.37:8000
 #EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="苏州生活资讯" tvg-id="1255" tvg-logo="" group-title="地方台",苏州生活资讯
-http://192.168.199.118:34400/stream/7c4792a25035d14521fe8f1eaca35d1f
+rtp://239.49.8.116:8000
 #EXTINF:0 channelID="x-ID.0" tvg-chno="2000" tvg-name="凤凰中文" tvg-id="2000" tvg-logo="http://192.168.199.118:34400/images/204f4a63cae461dad30044ce37d3c4bd.png" group-title="凤凰",凤凰中文
 http://192.168.199.118:34400/stream/82370f6105903f9d4eb3efd06038d4c1
 #EXTINF:0 channelID="x-ID.1" tvg-chno="2001" tvg-name="凤凰资讯" tvg-id="2001" tvg-logo="http://192.168.199.118:34400/images/9c4a6f9d4aa0d8b0b9a56b40fef62487.png" group-title="凤凰",凤凰资讯
