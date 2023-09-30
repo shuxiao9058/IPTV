@@ -6,7 +6,7 @@ rtp://239.49.8.50:9802
 #EXTINF:0 channelID="x-ID.3" tvg-chno="1002" tvg-name="CCTV3HD" tvg-id="1002" tvg-logo="http://192.168.199.118:34400/images/2308abe7bdb77172a08d4debc31599e8.png" group-title="央视",CCTV3HD
 rtp://239.49.9.31:6000
 #EXTINF:0 channelID="x-ID.4" tvg-chno="1003" tvg-name="CCTV4HD" tvg-id="1003" tvg-logo="http://192.168.199.118:34400/images/cf69819382ed940e4ef0f797bda4a8d4.png" group-title="央视",CCTV4HD
-rtp://2239.49.8.51:9806
+rtp://239.49.8.51:9806
 #EXTINF:0 channelID="x-ID.33" tvg-chno="1004" tvg-name="CCTV5" tvg-id="1004" tvg-logo="http://192.168.199.118:34400/images/3010f403437ac0253faba44a386a0de1.png" group-title="央视",CCTV5
 rtp://239.49.0.5:9570
 #EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="CCTV5+HD" tvg-id="1005" tvg-logo="http://192.168.199.118:34400/images/f0c6e77017af91f3fe2c38932d7f3551.png" group-title="央视",CCTV5+HD
