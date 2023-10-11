@@ -1,223 +1,223 @@
 #EXTM3U url-tvg="http://192.168.199.118:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.199.118:34400/xmltv/xteve.xml"
 #EXTINF:0 channelID="x-ID.235" tvg-chno="1000" tvg-name="CCTV1HD" tvg-id="1000" tvg-logo="http://192.168.199.118:34400/images/7b6063424c0a8b7fdad5d4e9141b43d5.png" group-title="央视",CCTV1HD
-http://192.168.199.1:4022/udp/239.49.8.19:9614/
+http://192.168.199.118:4022/udp/239.49.8.19:9614/
 #EXTINF:0 channelID="x-ID.2" tvg-chno="1001" tvg-name="CCTV2HD" tvg-id="1001" tvg-logo="http://192.168.199.118:34400/images/2c1e963964c1d109f61142f4f22040f5.png" group-title="央视",CCTV2HD
-http://192.168.199.1:4022/udp/239.49.8.50:9802/
+http://192.168.199.118:4022/udp/239.49.8.50:9802/
 #EXTINF:0 channelID="x-ID.3" tvg-chno="1002" tvg-name="CCTV3HD" tvg-id="1002" tvg-logo="http://192.168.199.118:34400/images/2308abe7bdb77172a08d4debc31599e8.png" group-title="央视",CCTV3HD
-http://192.168.199.1:4022/udp/239.49.9.31:6000/
+http://192.168.199.118:4022/udp/239.49.9.31:6000/
 #EXTINF:0 channelID="x-ID.4" tvg-chno="1003" tvg-name="CCTV4HD" tvg-id="1003" tvg-logo="http://192.168.199.118:34400/images/cf69819382ed940e4ef0f797bda4a8d4.png" group-title="央视",CCTV4HD
-http://192.168.199.1:4022/udp/239.49.8.51:9806/
+http://192.168.199.118:4022/udp/239.49.8.51:9806/
 #EXTINF:0 channelID="x-ID.33" tvg-chno="1004" tvg-name="CCTV5" tvg-id="1004" tvg-logo="http://192.168.199.118:34400/images/3010f403437ac0253faba44a386a0de1.png" group-title="央视",CCTV5
-http://192.168.199.1:4022/udp/239.49.0.5:9570/
+http://192.168.199.118:4022/udp/239.49.0.5:9570/
 #EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="CCTV5+HD" tvg-id="1005" tvg-logo="http://192.168.199.118:34400/images/f0c6e77017af91f3fe2c38932d7f3551.png" group-title="央视",CCTV5+HD
-http://192.168.199.1:4022/udp/239.49.8.18:9610/
+http://192.168.199.118:4022/udp/239.49.8.18:9610/
 #EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="CCTV6HD" tvg-id="1006" tvg-logo="http://192.168.199.118:34400/images/4f3f058404c1b0758fd32fddd688c712.png" group-title="央视",CCTV6HD
-http://192.168.199.1:4022/udp/239.49.9.33:6000/
+http://192.168.199.118:4022/udp/239.49.9.33:6000/
 #EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="CCTV8HD" tvg-id="1007" tvg-logo="http://192.168.199.118:34400/images/20bdf7e971ecf329a727112ddc088272.png" group-title="央视",CCTV8HD
-http://192.168.199.1:4022/udp/239.49.9.34:6000/
+http://192.168.199.118:4022/udp/239.49.9.34:6000/
 #EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="CCTV9HD" tvg-id="1008" tvg-logo="http://192.168.199.118:34400/images/581b3468932744ce27d02bc57400fea5.png" group-title="央视",CCTV9HD
-http://192.168.199.1:4022/udp/239.49.8.53:9814/
+http://192.168.199.118:4022/udp/239.49.8.53:9814/
 #EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="CCTV10HD" tvg-id="1009" tvg-logo="http://192.168.199.118:34400/images/1dbc2ed5f1ffff518c61e436775f3d53.png" group-title="央视",CCTV10HD
-http://192.168.199.1:4022/udp/239.49.8.54:9818/
+http://192.168.199.118:4022/udp/239.49.8.54:9818/
 #EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="CCTV12HD" tvg-id="1010" tvg-logo="http://192.168.199.118:34400/images/75d82912543b81f145be6050d925ce5c.png" group-title="央视",CCTV12HD
-http://192.168.199.1:4022/udp/239.49.8.55:9822/
+http://192.168.199.118:4022/udp/239.49.8.55:9822/
 #EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="CCTV少儿HD" tvg-id="1011" tvg-logo="http://192.168.199.118:34400/images/3ade7f73824feb88e96af32ad6829621.png" group-title="央视",CCTV少儿HD
-http://192.168.199.1:4022/udp/239.49.8.56:9826/
+http://192.168.199.118:4022/udp/239.49.8.56:9826/
 #EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="CCTV17HD" tvg-id="1012" tvg-logo="http://192.168.199.118:34400/images/ab983decc43e5e300e32e6260b0ee04a.png" group-title="央视",CCTV17HD
-http://192.168.199.1:4022/udp/239.49.8.132:6000/
+http://192.168.199.118:4022/udp/239.49.8.132:6000/
 #EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="江苏影视HD" tvg-id="1013" tvg-logo="http://192.168.199.118:34400/images/8e080d38b558e97a948d25d9bbdae924.png" group-title="本地台",江苏影视HD
-http://192.168.199.1:4022/udp/239.49.9.38:6000/
+http://192.168.199.118:4022/udp/239.49.9.38:6000/
 #EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="辽宁卫视HD" tvg-id="1014" tvg-logo="http://192.168.199.118:34400/images/554fe12a867a9f34d067cad52044fd81.png" group-title="卫视",辽宁卫视HD
-http://192.168.199.1:4022/udp/239.49.8.48:8000/
+http://192.168.199.118:4022/udp/239.49.8.48:8000/
 #EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="安徽卫视HD" tvg-id="1015" tvg-logo="http://192.168.199.118:34400/images/fc709ab2d647c09ee3c8714b162818f1.png" group-title="卫视",安徽卫视HD
-http://192.168.199.1:4022/udp/239.49.8.204:6000/
+http://192.168.199.118:4022/udp/239.49.8.204:6000/
 #EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="重庆卫视HD" tvg-id="1016" tvg-logo="http://192.168.199.118:34400/images/fd20840daf7f1b44adb76b9b55ef5c30.png" group-title="卫视",重庆卫视HD
-http://192.168.199.1:4022/udp/239.49.8.57:9830/
+http://192.168.199.118:4022/udp/239.49.8.57:9830/
 #EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="四川卫视HD" tvg-id="1017" tvg-logo="http://192.168.199.118:34400/images/f26052dcbb38a12e4e69e95e2fc324b9.png" group-title="卫视",四川卫视HD
-http://192.168.199.1:4022/udp/239.49.8.184:6000/
+http://192.168.199.118:4022/udp/239.49.8.184:6000/
 #EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="河南卫视HD" tvg-id="1018" tvg-logo="http://192.168.199.118:34400/images/7a5cd8fa6305a807a2fbb9fe0e343b30.png" group-title="卫视",河南卫视HD
-http://192.168.199.1:4022/udp/239.49.8.197:6000/
+http://192.168.199.118:4022/udp/239.49.8.197:6000/
 #EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="东南卫视HD" tvg-id="1019" tvg-logo="http://192.168.199.118:34400/images/f81e795fd5a6101a2ea706b49943e7f5.png" group-title="卫视",东南卫视HD
-http://192.168.199.1:4022/udp/239.49.8.186:6000/
+http://192.168.199.118:4022/udp/239.49.8.186:6000/
 #EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="江西卫视HD" tvg-id="1020" tvg-logo="http://192.168.199.118:34400/images/c48a33351ebef521d6ea05dfc0b0442e.png" group-title="卫视",江西卫视HD
-http://192.168.199.1:4022/udp/239.49.8.185:6000/
+http://192.168.199.118:4022/udp/239.49.8.185:6000/
 #EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="吉林卫视HD" tvg-id="1021" tvg-logo="http://192.168.199.118:34400/images/199c2bf3351860d3ed818eda21912351.png" group-title="卫视",吉林卫视HD
-http://192.168.199.1:4022/udp/239.49.8.187:6000/
+http://192.168.199.118:4022/udp/239.49.8.187:6000/
 #EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="贵州卫视HD" tvg-id="1022" tvg-logo="http://192.168.199.118:34400/images/4e359fdabf64317e7389ee1c1eba6456.png" group-title="卫视",贵州卫视HD
-http://192.168.199.1:4022/udp/239.49.8.174:6000/
+http://192.168.199.118:4022/udp/239.49.8.174:6000/
 #EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="电视指南HD" tvg-id="1023" tvg-logo="http://192.168.199.118:34400/images/b91e50ea674b0b627c93281ed0570c5a.png" group-title="其他",电视指南HD
-http://192.168.199.1:4022/udp/239.49.9.5:6000/
+http://192.168.199.118:4022/udp/239.49.9.5:6000/
 #EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="风云足球HD" tvg-id="1024" tvg-logo="http://192.168.199.118:34400/images/1c6ec1932a99b3d4e0ebc4c77979a0af.png" group-title="其他",风云足球HD
-http://192.168.199.1:4022/udp/239.49.9.6:6000/
+http://192.168.199.118:4022/udp/239.49.9.6:6000/
 #EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="高尔夫网球HD" tvg-id="1025" tvg-logo="http://192.168.199.118:34400/images/674896ebd1dfcdfde122c76704d33717.png" group-title="其他",高尔夫网球HD
-http://192.168.199.1:4022/udp/239.49.9.7:6000/
+http://192.168.199.118:4022/udp/239.49.9.7:6000/
 #EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="世界地理HD" tvg-id="1026" tvg-logo="http://192.168.199.118:34400/images/6e0e9a6bae863bf89a673173ff353405.png" group-title="其他",世界地理HD
-http://192.168.199.1:4022/udp/239.49.9.8:6000/
+http://192.168.199.118:4022/udp/239.49.9.8:6000/
 #EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="兵器科技HD" tvg-id="1027" tvg-logo="http://192.168.199.118:34400/images/c215187377571bd47408985e0467264a.png" group-title="其他",兵器科技HD
-http://192.168.199.1:4022/udp/239.49.9.9:6000/
+http://192.168.199.118:4022/udp/239.49.9.9:6000/
 #EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="风云剧场HD" tvg-id="1028" tvg-logo="http://192.168.199.118:34400/images/3b7e5b12925a435d827e5cf6dcbc9409.png" group-title="其他",风云剧场HD
-http://192.168.199.1:4022/udp/239.49.9.10:6000/
+http://192.168.199.118:4022/udp/239.49.9.10:6000/
 #EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="风云音乐HD" tvg-id="1029" tvg-logo="http://192.168.199.118:34400/images/b0de82d0f29313c5534ede612ad4fa1e.png" group-title="其他",风云音乐HD
-http://192.168.199.1:4022/udp/239.49.9.13:6000/
+http://192.168.199.118:4022/udp/239.49.9.13:6000/
 #EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="女性时尚HD" tvg-id="1030" tvg-logo="http://192.168.199.118:34400/images/73908381e2d4e1c9536da3a3bf26636c.png" group-title="其他",女性时尚HD
-http://192.168.199.1:4022/udp/239.49.9.14:6000/
+http://192.168.199.118:4022/udp/239.49.9.14:6000/
 #EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="江苏导视HD" tvg-id="1031" tvg-logo="" group-title="其他",江苏导视HD
-http://192.168.199.1:4022/udp/239.49.8.34:8612/
+http://192.168.199.118:4022/udp/239.49.8.34:8612/
 #EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="好享购物HD" tvg-id="1032" tvg-logo="http://192.168.199.118:34400/images/fe215123737a70fdb54e8c35161d6a5c.png" group-title="其他",好享购物HD
-http://192.168.199.1:4022/udp/239.49.9.41:6000/
+http://192.168.199.118:4022/udp/239.49.9.41:6000/
 #EXTINF:0 channelID="x-ID.34" tvg-chno="1033" tvg-name="文物宝库HD" tvg-id="1033" tvg-logo="http://192.168.199.118:34400/images/0388d60cbdca08f8842142d428ff08f1.jpg" group-title="收费",文物宝库HD
-http://192.168.199.1:4022/udp/239.49.0.209:8000/
+http://192.168.199.118:4022/udp/239.49.0.209:8000/
 #EXTINF:0 channelID="x-ID.134" tvg-chno="1034" tvg-name="CCTV7" tvg-id="1034" tvg-logo="http://192.168.199.118:34400/images/f012ea855b1188e553f93d29467bf734.png" group-title="央视",CCTV7
-http://192.168.199.1:4022/udp/239.49.8.126:8000/
+http://192.168.199.118:4022/udp/239.49.8.126:8000/
 #EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="武术世界HD" tvg-id="1035" tvg-logo="http://192.168.199.118:34400/images/08c86689918add6233ee2afdb3c4e667.jpg" group-title="收费",武术世界HD
-http://192.168.199.1:4022/udp/239.49.0.205:8000/
+http://192.168.199.118:4022/udp/239.49.0.205:8000/
 #EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="梨园HD" tvg-id="1036" tvg-logo="http://192.168.199.118:34400/images/dbc376d44854ae2c7c95a6a8483ce23b.jpg" group-title="收费",梨园HD
-http://192.168.199.1:4022/udp/239.49.8.193:8000/
+http://192.168.199.118:4022/udp/239.49.8.193:8000/
 #EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="CCTV奥林匹克频道" tvg-id="1037" tvg-logo="http://192.168.199.118:34400/images/6ba2f8d4119de46e6394bc3eca5625c8.png" group-title="央视",CCTV奥林匹克频道
-http://192.168.199.1:4022/udp/239.49.0.109:8000/
+http://192.168.199.118:4022/udp/239.49.0.109:8000/
 #EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="CETV4" tvg-id="1038" tvg-logo="" group-title="其他",CETV4
 rtp:://239.49.0.125:8000
 #EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="金鹰纪实HD" tvg-id="1039" tvg-logo="http://192.168.199.118:34400/images/33d07ace2722e04542b1b3ccdf204169.png" group-title="金鹰",金鹰纪实HD
-http://192.168.199.1:4022/udp/239.49.8.79:8000/
+http://192.168.199.118:4022/udp/239.49.8.79:8000/
 #EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="金鹰卡通HD" tvg-id="1040" tvg-logo="http://192.168.199.118:34400/images/48301b8815e29fedc1cb932962df0d16.png" group-title="金鹰",金鹰卡通HD
-http://192.168.199.1:4022/udp/239.49.8.33:8000/
+http://192.168.199.118:4022/udp/239.49.8.33:8000/
 #EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="全纪实HD" tvg-id="1041" tvg-logo="http://192.168.199.118:34400/images/d2815a7500d41b2135ce39e172c3a1bc.png" group-title="上海文广",全纪实HD
-http://192.168.199.1:4022/udp/239.49.8.179:6000/
+http://192.168.199.118:4022/udp/239.49.8.179:6000/
 #EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="魅力足球HD" tvg-id="1042" tvg-logo="http://192.168.199.118:34400/images/6d6cf43534921f2732983523af66a38f.png" group-title="上海文广",魅力足球HD
-http://192.168.199.1:4022/udp/239.49.8.181:6000/
+http://192.168.199.118:4022/udp/239.49.8.181:6000/
 #EXTINF:0 channelID="x-ID.137" tvg-chno="1137" tvg-name="CCTV11" tvg-id="1137" tvg-logo="http://192.168.199.118:34400/images/5f8db443a53bdaaa3300005e3deb9ca8.png" group-title="央视",CCTV11
-http://192.168.199.1:4022/udp/239.49.0.11:8080/
+http://192.168.199.118:4022/udp/239.49.0.11:8080/
 #EXTINF:0 channelID="x-ID.139" tvg-chno="1139" tvg-name="CCTV新闻" tvg-id="1139" tvg-logo="http://192.168.199.118:34400/images/e0a5b6ef81b9f1290cb6b26b22572565.png" group-title="央视",CCTV新闻
-http://192.168.199.1:4022/udp/239.49.0.13:8096/
+http://192.168.199.118:4022/udp/239.49.0.13:8096/
 #EXTINF:0 channelID="x-ID.141" tvg-chno="1141" tvg-name="CCTV音乐" tvg-id="1141" tvg-logo="http://192.168.199.118:34400/images/44926b4d696ab309ea1f7c144b948b26.png" group-title="央视",CCTV音乐
-http://192.168.199.1:4022/udp/239.49.0.15:8112/
+http://192.168.199.118:4022/udp/239.49.0.15:8112/
 #EXTINF:0 channelID="x-ID.142" tvg-chno="1142" tvg-name="CGTN" tvg-id="1142" tvg-logo="http://192.168.199.118:34400/images/1d74f728d8dd13f76072d043f2a05efc.png" group-title="央视",CGTN
-http://192.168.199.1:4022/udp/239.49.0.9:8064/
+http://192.168.199.118:4022/udp/239.49.0.9:8064/
 #EXTINF:0 channelID="x-ID.145" tvg-chno="1145" tvg-name="江苏城市" tvg-id="1145" tvg-logo="http://192.168.199.118:34400/images/1d4cb049a9a7066ce900346a4b459c75.png" group-title="地方台",江苏城市
-http://192.168.199.1:4022/udp/239.49.0.17:8128/
+http://192.168.199.118:4022/udp/239.49.0.17:8128/
 #EXTINF:0 channelID="x-ID.146" tvg-chno="1146" tvg-name="江苏综艺" tvg-id="1146" tvg-logo="http://192.168.199.118:34400/images/3a11277d4f998ec0413f3f0a61e0869a.png" group-title="地方台",江苏综艺
-http://192.168.199.1:4022/udp/239.49.0.18:8136/
+http://192.168.199.118:4022/udp/239.49.0.18:8136/
 #EXTINF:0 channelID="x-ID.147" tvg-chno="1147" tvg-name="江苏体育休闲" tvg-id="1147" tvg-logo="http://192.168.199.118:34400/images/d7a6dbd23df482fbb562c2cba29eaa70.png" group-title="地方台",江苏体育休闲
-http://192.168.199.1:4022/udp/239.49.0.19:8144/
+http://192.168.199.118:4022/udp/239.49.0.19:8144/
 #EXTINF:0 channelID="x-ID.149" tvg-chno="1149" tvg-name="优漫卡通" tvg-id="1149" tvg-logo="http://192.168.199.118:34400/images/bc11bc764b741d65d17d0d509a2d8896.png" group-title="其他",优漫卡通
-http://192.168.199.1:4022/udp/239.49.0.21:8160/
+http://192.168.199.118:4022/udp/239.49.0.21:8160/
 #EXTINF:0 channelID="x-ID.151" tvg-chno="1151" tvg-name="江苏国际" tvg-id="1151" tvg-logo="http://192.168.199.118:34400/images/bd6dbd77a332775da182ff703d3cfd33.png" group-title="地方台",江苏国际
-http://192.168.199.1:4022/udp/239.49.0.22:8168/
+http://192.168.199.118:4022/udp/239.49.0.22:8168/
 #EXTINF:0 channelID="x-ID.153" tvg-chno="1153" tvg-name="靓妆频道" tvg-id="1153" tvg-logo="http://192.168.199.118:34400/images/9531bbca407dbc24550d8ea909ff0b88.png" group-title="其他",靓妆频道
-http://192.168.199.1:4022/udp/239.49.0.150:9194/
+http://192.168.199.118:4022/udp/239.49.0.150:9194/
 #EXTINF:0 channelID="x-ID.155" tvg-chno="1155" tvg-name="CCTV中视购物" tvg-id="1155" tvg-logo="http://192.168.199.118:34400/images/f4a232405d39aaada4c50b4cd1da991f.png" group-title="央视",CCTV中视购物
-http://192.168.199.1:4022/udp/239.49.0.112:8000/
+http://192.168.199.118:4022/udp/239.49.0.112:8000/
 #EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="家有购物" tvg-id="1156" tvg-logo="http://192.168.199.118:34400/images/d6f6e64428824825c8a9fddaa0b7beae.png" group-title="其他",家有购物
-http://192.168.199.1:4022/udp/239.49.8.124:8000/
+http://192.168.199.118:4022/udp/239.49.8.124:8000/
 #EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="学习频道" tvg-id="1158" tvg-logo="http://192.168.199.118:34400/images/bd94057f50dd99eabeee81c79713a5e6.png" group-title="其他",学习频道
-http://192.168.199.1:4022/udp/239.49.0.210:8884/
+http://192.168.199.118:4022/udp/239.49.0.210:8884/
 #EXTINF:0 channelID="x-ID.187" tvg-chno="1187" tvg-name="山西卫视" tvg-id="1187" tvg-logo="http://192.168.199.118:34400/images/f7683f93fee191cbb321ec68963dc62c.png" group-title="卫视",山西卫视
-http://192.168.199.1:4022/udp/239.49.0.67:8528/
+http://192.168.199.118:4022/udp/239.49.0.67:8528/
 #EXTINF:0 channelID="x-ID.189" tvg-chno="1189" tvg-name="青海卫视" tvg-id="1189" tvg-logo="http://192.168.199.118:34400/images/c32fd1ba3dedeb4f890d0a3acbb9878e.png" group-title="卫视",青海卫视
-http://192.168.199.1:4022/udp/239.49.0.69:8544/
+http://192.168.199.118:4022/udp/239.49.0.69:8544/
 #EXTINF:0 channelID="x-ID.190" tvg-chno="1190" tvg-name="CETV1" tvg-id="1190" tvg-logo="http://192.168.199.118:34400/images/5075db41fc1c2bebf04eabcebfe88fe4.png" group-title="其他",CETV1
-http://192.168.199.1:4022/udp/239.49.0.70:8552/
+http://192.168.199.118:4022/udp/239.49.0.70:8552/
 #EXTINF:0 channelID="x-ID.191" tvg-chno="1191" tvg-name="CETV2" tvg-id="1191" tvg-logo="http://192.168.199.118:34400/images/48f7044e637ba19734876ede2382418a.png" group-title="其他",CETV2
-http://192.168.199.1:4022/udp/239.49.0.71:8560/
+http://192.168.199.118:4022/udp/239.49.0.71:8560/
 #EXTINF:0 channelID="x-ID.192" tvg-chno="1192" tvg-name="空中课堂" tvg-id="1192" tvg-logo="http://192.168.199.118:34400/images/9698a02b607a7f7ba324f0c4c1cabdac.png" group-title="其他",空中课堂
-http://192.168.199.1:4022/udp/239.49.0.72:8568/
+http://192.168.199.118:4022/udp/239.49.0.72:8568/
 #EXTINF:0 channelID="x-ID.195" tvg-chno="1195" tvg-name="直播室108" tvg-id="1195" tvg-logo="" group-title="直播",直播室108
-http://192.168.199.1:4022/udp/239.49.8.58:9334/
+http://192.168.199.118:4022/udp/239.49.8.58:9334/
 #EXTINF:0 channelID="x-ID.196" tvg-chno="1196" tvg-name="直播室109" tvg-id="1196" tvg-logo="" group-title="直播",直播室109
-http://192.168.199.1:4022/udp/239.49.8.59:9338/
+http://192.168.199.118:4022/udp/239.49.8.59:9338/
 #EXTINF:0 channelID="x-ID.197" tvg-chno="1197" tvg-name="直播室110" tvg-id="1197" tvg-logo="" group-title="直播",直播室110
-http://192.168.199.1:4022/udp/239.49.8.60:9342/
+http://192.168.199.118:4022/udp/239.49.8.60:9342/
 #EXTINF:0 channelID="x-ID.198" tvg-chno="1198" tvg-name="直播室111" tvg-id="1198" tvg-logo="" group-title="直播",直播室111
-http://192.168.199.1:4022/udp/239.49.8.61:9346/
+http://192.168.199.118:4022/udp/239.49.8.61:9346/
 #EXTINF:0 channelID="x-ID.205" tvg-chno="1205" tvg-name="央视精品" tvg-id="1205" tvg-logo="http://192.168.199.118:34400/images/eb66ca7951ca959a6927965e65276a3c.png" group-title="央视",央视精品
-http://192.168.199.1:4022/udp/239.49.0.156:9242/
+http://192.168.199.118:4022/udp/239.49.0.156:9242/
 #EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="央视怀旧剧场" tvg-id="1206" tvg-logo="" group-title="央视",央视怀旧剧场
-http://192.168.199.1:4022/udp/239.49.0.157:9250/
+http://192.168.199.118:4022/udp/239.49.0.157:9250/
 #EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="导视" tvg-id="1209" tvg-logo="http://192.168.199.118:34400/images/ed2daa980b881abe161e9dda7515104d.png" group-title="其他",导视
-http://192.168.199.1:4022/udp/239.49.0.80:8632/
+http://192.168.199.118:4022/udp/239.49.0.80:8632/
 #EXTINF:0 channelID="x-ID.210" tvg-chno="1210" tvg-name="直播室208" tvg-id="1210" tvg-logo="" group-title="直播",直播室208
-http://192.168.199.1:4022/udp/239.49.0.140:9350/
+http://192.168.199.118:4022/udp/239.49.0.140:9350/
 #EXTINF:0 channelID="x-ID.211" tvg-chno="1211" tvg-name="直播室209" tvg-id="1211" tvg-logo="" group-title="直播",直播室209
-http://192.168.199.1:4022/udp/239.49.0.141:9354/
+http://192.168.199.118:4022/udp/239.49.0.141:9354/
 #EXTINF:0 channelID="x-ID.212" tvg-chno="1212" tvg-name="直播室210" tvg-id="1212" tvg-logo="" group-title="直播",直播室210
-http://192.168.199.1:4022/udp/239.49.0.142:9358/
+http://192.168.199.118:4022/udp/239.49.0.142:9358/
 #EXTINF:0 channelID="x-ID.213" tvg-chno="1213" tvg-name="直播室211" tvg-id="1213" tvg-logo="" group-title="直播",直播室211
-http://192.168.199.1:4022/udp/239.49.0.143:9362/
+http://192.168.199.118:4022/udp/239.49.0.143:9362/
 #EXTINF:0 channelID="x-ID.214" tvg-chno="1214" tvg-name="精彩推荐" tvg-id="1214" tvg-logo="" group-title="其他",精彩推荐
-http://192.168.199.1:4022/udp/239.49.0.190:9458/
+http://192.168.199.118:4022/udp/239.49.0.190:9458/
 #EXTINF:0 channelID="x-ID.215" tvg-chno="1215" tvg-name="直播室101" tvg-id="1215" tvg-logo="" group-title="直播",直播室101
-http://192.168.199.1:4022/udp/239.49.8.21:9136/
+http://192.168.199.118:4022/udp/239.49.8.21:9136/
 #EXTINF:0 channelID="x-ID.216" tvg-chno="1216" tvg-name="直播室102" tvg-id="1216" tvg-logo="" group-title="直播",直播室102
-http://192.168.199.1:4022/udp/239.49.8.22:9128/
+http://192.168.199.118:4022/udp/239.49.8.22:9128/
 #EXTINF:0 channelID="x-ID.217" tvg-chno="1217" tvg-name="直播室103" tvg-id="1217" tvg-logo="" group-title="直播",直播室103
-http://192.168.199.1:4022/udp/239.49.8.23:9120/
+http://192.168.199.118:4022/udp/239.49.8.23:9120/
 #EXTINF:0 channelID="x-ID.218" tvg-chno="1218" tvg-name="直播室104" tvg-id="1218" tvg-logo="" group-title="直播",直播室104
-http://192.168.199.1:4022/udp/239.49.8.24:9112/
+http://192.168.199.118:4022/udp/239.49.8.24:9112/
 #EXTINF:0 channelID="x-ID.219" tvg-chno="1219" tvg-name="直播室105" tvg-id="1219" tvg-logo="" group-title="直播",直播室105
-http://192.168.199.1:4022/udp/239.49.8.25:9104/
+http://192.168.199.118:4022/udp/239.49.8.25:9104/
 #EXTINF:0 channelID="x-ID.220" tvg-chno="1220" tvg-name="直播室106" tvg-id="1220" tvg-logo="" group-title="直播",直播室106
-http://192.168.199.1:4022/udp/239.49.8.26:9096/
+http://192.168.199.118:4022/udp/239.49.8.26:9096/
 #EXTINF:0 channelID="x-ID.221" tvg-chno="1221" tvg-name="直播室107" tvg-id="1221" tvg-logo="" group-title="直播",直播室107
-http://192.168.199.1:4022/udp/239.49.8.27:9088/
+http://192.168.199.118:4022/udp/239.49.8.27:9088/
 #EXTINF:0 channelID="x-ID.222" tvg-chno="1222" tvg-name="直播室201" tvg-id="1222" tvg-logo="" group-title="直播",直播室201
-http://192.168.199.1:4022/udp/239.49.0.135:9072/
+http://192.168.199.118:4022/udp/239.49.0.135:9072/
 #EXTINF:0 channelID="x-ID.223" tvg-chno="1223" tvg-name="直播室202" tvg-id="1223" tvg-logo="" group-title="直播",直播室202
-http://192.168.199.1:4022/udp/239.49.0.134:9064/
+http://192.168.199.118:4022/udp/239.49.0.134:9064/
 #EXTINF:0 channelID="x-ID.224" tvg-chno="1224" tvg-name="直播室203" tvg-id="1224" tvg-logo="" group-title="直播",直播室203
-http://192.168.199.1:4022/udp/239.49.0.133:9056/
+http://192.168.199.118:4022/udp/239.49.0.133:9056/
 #EXTINF:0 channelID="x-ID.225" tvg-chno="1225" tvg-name="直播室204" tvg-id="1225" tvg-logo="" group-title="直播",直播室204
-http://192.168.199.1:4022/udp/239.49.0.132:9048/
+http://192.168.199.118:4022/udp/239.49.0.132:9048/
 #EXTINF:0 channelID="x-ID.226" tvg-chno="1226" tvg-name="直播室205" tvg-id="1226" tvg-logo="" group-title="直播",直播室205
-http://192.168.199.1:4022/udp/239.49.0.131:9040/
+http://192.168.199.118:4022/udp/239.49.0.131:9040/
 #EXTINF:0 channelID="x-ID.227" tvg-chno="1227" tvg-name="直播室206" tvg-id="1227" tvg-logo="" group-title="直播",直播室206
-http://192.168.199.1:4022/udp/239.49.0.130:9032/
+http://192.168.199.118:4022/udp/239.49.0.130:9032/
 #EXTINF:0 channelID="x-ID.228" tvg-chno="1228" tvg-name="直播室207" tvg-id="1228" tvg-logo="" group-title="直播",直播室207
-http://192.168.199.1:4022/udp/239.49.0.129:9024/
+http://192.168.199.118:4022/udp/239.49.0.129:9024/
 #EXTINF:0 channelID="x-ID.229" tvg-chno="1229" tvg-name="生活时尚HD" tvg-id="1229" tvg-logo="http://192.168.199.118:34400/images/d0f91a54a471c47f42e4b00ed0b82f8d.png" group-title="其他",生活时尚HD
-http://192.168.199.1:4022/udp/239.49.8.40:8004/
+http://192.168.199.118:4022/udp/239.49.8.40:8004/
 #EXTINF:0 channelID="x-ID.230" tvg-chno="1230" tvg-name="游戏风云HD" tvg-id="1230" tvg-logo="http://192.168.199.118:34400/images/9cd2f970f8f48158873b36ab6e7b6f50.png" group-title="其他",游戏风云HD
-http://192.168.199.1:4022/udp/239.49.8.41:8012/
+http://192.168.199.118:4022/udp/239.49.8.41:8012/
 #EXTINF:0 channelID="x-ID.231" tvg-chno="1231" tvg-name="动漫秀场HD" tvg-id="1231" tvg-logo="http://192.168.199.118:34400/images/12e564ff5bb6d4a881ae1b7453c6cf4f.png" group-title="其他",动漫秀场HD
-http://192.168.199.1:4022/udp/239.49.8.43:8028/
+http://192.168.199.118:4022/udp/239.49.8.43:8028/
 #EXTINF:0 channelID="x-ID.232" tvg-chno="1232" tvg-name="乐游HD" tvg-id="1232" tvg-logo="http://192.168.199.118:34400/images/382f40855147599cc009936eb9d4bc6c.png" group-title="其他",乐游HD
-http://192.168.199.1:4022/udp/239.49.8.44:8036/
+http://192.168.199.118:4022/udp/239.49.8.44:8036/
 #EXTINF:0 channelID="x-ID.233" tvg-chno="1233" tvg-name="都市剧场HD" tvg-id="1233" tvg-logo="http://192.168.199.118:34400/images/7678f06553ff0b10c59e11643e618c36.png" group-title="其他",都市剧场HD
-http://192.168.199.1:4022/udp/239.49.8.45:8044/
+http://192.168.199.118:4022/udp/239.49.8.45:8044/
 #EXTINF:0 channelID="x-ID.234" tvg-chno="1234" tvg-name="欢笑剧场HD" tvg-id="1234" tvg-logo="http://192.168.199.118:34400/images/424496aced316a833df7697bdc027bff.png" group-title="其他",欢笑剧场HD
-http://192.168.199.1:4022/udp/239.49.8.47:8060/
+http://192.168.199.118:4022/udp/239.49.8.47:8060/
 #EXTINF:0 channelID="x-ID.237" tvg-chno="1237" tvg-name="江苏卫视HD" tvg-id="1237" tvg-logo="http://192.168.199.118:34400/images/73229d87cd98d172793e202fd07b65e7.png" group-title="卫视",江苏卫视HD
-http://192.168.199.1:4022/udp/239.49.8.16:9602/
+http://192.168.199.118:4022/udp/239.49.8.16:9602/
 #EXTINF:0 channelID="x-ID.238" tvg-chno="1238" tvg-name="广西卫视HD" tvg-id="1238" tvg-logo="http://192.168.199.118:34400/images/03a20ce6a6db8af311013806652d3b1d.png" group-title="卫视",广西卫视HD
-http://192.168.199.1:4022/udp/239.49.8.10:8000/
+http://192.168.199.118:4022/udp/239.49.8.10:8000/
 #EXTINF:0 channelID="x-ID.239" tvg-chno="1239" tvg-name="天津卫视HD" tvg-id="1239" tvg-logo="http://192.168.199.118:34400/images/f59e622ff307bba65cacd1e81343caaf.png" group-title="卫视",天津卫视HD
-http://192.168.199.1:4022/udp/239.49.8.35:8620/
+http://192.168.199.118:4022/udp/239.49.8.35:8620/
 #EXTINF:0 channelID="x-ID.240" tvg-chno="1240" tvg-name="浙江卫视HD" tvg-id="1240" tvg-logo="http://192.168.199.118:34400/images/9555055b8d01b4642afc0e6d469e8c18.png" group-title="卫视",浙江卫视HD
-http://192.168.199.1:4022/udp/239.49.8.20:9618/
+http://192.168.199.118:4022/udp/239.49.8.20:9618/
 #EXTINF:0 channelID="x-ID.241" tvg-chno="1241" tvg-name="环球购物HD" tvg-id="1241" tvg-logo="" group-title="其他",环球购物HD
-http://192.168.199.1:4022/udp/239.49.8.123:8000/
+http://192.168.199.118:4022/udp/239.49.8.123:8000/
 #EXTINF:0 channelID="x-ID.242" tvg-chno="1242" tvg-name="海南卫视HD" tvg-id="1242" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.pngg" group-title="卫视",海南卫视HD
-http://192.168.199.1:4022/udp/239.49.8.83:8000/
+http://192.168.199.118:4022/udp/239.49.8.83:8000/
 #EXTINF:0 channelID="x-ID.243" tvg-chno="1243" tvg-name="东方卫视HD" tvg-id="1243" tvg-logo="http://192.168.199.118:34400/images/e085df055bba7a3691302f78439741f8.png" group-title="卫视",东方卫视HD
-http://192.168.199.1:4022/udp/239.49.8.17:9606/
+http://192.168.199.118:4022/udp/239.49.8.17:9606/
 #EXTINF:0 channelID="x-ID.244" tvg-chno="1244" tvg-name="北京卫视HD" tvg-id="1244" tvg-logo="http://192.168.199.118:34400/images/e15332dc1f9d02d4812c9f5da4cac98c.png" group-title="卫视",北京卫视HD
-http://192.168.199.1:4022/udp/239.49.8.11:9414/
+http://192.168.199.118:4022/udp/239.49.8.11:9414/
 #EXTINF:0 channelID="x-ID.245" tvg-chno="1245" tvg-name="湖南卫视HD" tvg-id="1245" tvg-logo="http://192.168.199.118:34400/images/ef4cbc965ecbb6f0844d5e1fe11d77bf.png" group-title="卫视",湖南卫视HD
-http://192.168.199.1:4022/udp/239.49.8.12:9418/
+http://192.168.199.118:4022/udp/239.49.8.12:9418/
 #EXTINF:0 channelID="x-ID.246" tvg-chno="1246" tvg-name="广东卫视HD" tvg-id="1246" tvg-logo="http://192.168.199.118:34400/images/263d25c0b76dc2a18966d684b33b320e.png" group-title="卫视",广东卫视HD
-http://192.168.199.1:4022/udp/239.49.8.13:9422/
+http://192.168.199.118:4022/udp/239.49.8.13:9422/
 #EXTINF:0 channelID="x-ID.247" tvg-chno="1247" tvg-name="黑龙江卫视HD" tvg-id="1247" tvg-logo="http://192.168.199.118:34400/images/09cad85e199c11c4f0f1832ca29c2573.png" group-title="卫视",黑龙江卫视HD
-http://192.168.199.1:4022/udp/239.49.8.14:9426/
+http://192.168.199.118:4022/udp/239.49.8.14:9426/
 #EXTINF:0 channelID="x-ID.248" tvg-chno="1248" tvg-name="深圳卫视HD" tvg-id="1248" tvg-logo="http://192.168.199.118:34400/images/f80070ac3a4c28463a9203acc1c9fddf.png" group-title="卫视",深圳卫视HD
-http://192.168.199.1:4022/udp/239.49.8.15:9430/
+http://192.168.199.118:4022/udp/239.49.8.15:9430/
 #EXTINF:0 channelID="x-ID.249" tvg-chno="1249" tvg-name="山东卫视HD" tvg-id="1249" tvg-logo="http://192.168.199.118:34400/images/68a6c4a852bb7ee1ee1ce231347f38e4.png" group-title="卫视",山东卫视HD
-http://192.168.199.1:4022/udp/239.49.8.7:9306/
+http://192.168.199.118:4022/udp/239.49.8.7:9306/
 #EXTINF:0 channelID="x-ID.250" tvg-chno="1250" tvg-name="湖北卫视HD" tvg-id="1250" tvg-logo="http://192.168.199.118:34400/images/6bf39db0a007ddbf939ba5b03f382732.png" group-title="卫视",湖北卫视HD
-http://192.168.199.1:4022/udp/239.49.8.8:9632/
+http://192.168.199.118:4022/udp/239.49.8.8:9632/
 #EXTINF:0 channelID="x-ID.252" tvg-chno="1252" tvg-name="央广购物HD" tvg-id="1252" tvg-logo="http://192.168.199.118:34400/images/a940b7d62ef45f64cbe50a716a40c926.png" group-title="央视",央广购物HD
-http://192.168.199.1:4022/udp/239.49.0.39:8000/
+http://192.168.199.118:4022/udp/239.49.0.39:8000/
 #EXTINF:0 channelID="x-ID.253" tvg-chno="1253" tvg-name="财富天下" tvg-id="1253" tvg-logo="http://192.168.199.118:34400/images/80a7c0f5392675a5554ec6c721887552.png" group-title="其他",财富天下
-http://192.168.199.1:4022/udp/239.49.0.166:9322/
+http://192.168.199.118:4022/udp/239.49.0.166:9322/
 #EXTINF:0 channelID="x-ID.254" tvg-chno="1254" tvg-name="第一财经HD" tvg-id="1254" tvg-logo="http://192.168.199.118:34400/images/af413f8cf47efbd09eaa811e632f38ee.png" group-title="其他",第一财经HD
-http://192.168.199.1:4022/udp/239.49.8.37:8000/
+http://192.168.199.118:4022/udp/239.49.8.37:8000/
 #EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="苏州生活资讯" tvg-id="1255" tvg-logo="" group-title="地方台",苏州生活资讯
-http://192.168.199.1:4022/udp/239.49.8.116:8000/
+http://192.168.199.118:4022/udp/239.49.8.116:8000/
