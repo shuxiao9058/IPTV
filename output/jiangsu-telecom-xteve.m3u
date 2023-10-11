@@ -221,7 +221,3 @@ http://192.168.199.1:4022/udp/239.49.0.166:9322/
 http://192.168.199.1:4022/udp/239.49.8.37:8000/
 #EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="苏州生活资讯" tvg-id="1255" tvg-logo="" group-title="地方台",苏州生活资讯
 http://192.168.199.1:4022/udp/239.49.8.116:8000/
-#EXTINF:0 channelID="x-ID.0" tvg-chno="2000" tvg-name="凤凰中文" tvg-id="2000" tvg-logo="http://192.168.199.118:34400/images/204f4a63cae461dad30044ce37d3c4bd.png" group-title="凤凰",凤凰中文
-http://192.168.199.118:34400/stream/82370f6105903f9d4eb3efd06038d4c1
-#EXTINF:0 channelID="x-ID.1" tvg-chno="2001" tvg-name="凤凰资讯" tvg-id="2001" tvg-logo="http://192.168.199.118:34400/images/9c4a6f9d4aa0d8b0b9a56b40fef62487.png" group-title="凤凰",凤凰资讯
-http://192.168.199.118:34400/stream/1f709035751b2dc04463af5c0ac4d43b
