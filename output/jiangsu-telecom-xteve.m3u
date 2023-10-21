@@ -195,7 +195,7 @@ http://10.0.1.6:4022/udp/239.49.8.35:8620/
 http://10.0.1.6:4022/udp/239.49.8.20:9618/
 #EXTINF:0 channelID="x-ID.241" tvg-chno="1241" tvg-name="环球购物HD" tvg-id="1241" tvg-logo="" group-title="其他",环球购物HD
 http://10.0.1.6:4022/udp/239.49.8.123:8000/
-#EXTINF:0 channelID="x-ID.242" tvg-chno="1242" tvg-name="海南卫视HD" tvg-id="1242" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD.pngg" group-title="卫视",海南卫视HD
+#EXTINF:0 channelID="x-ID.242" tvg-chno="1242" tvg-name="海南卫视HD" tvg-id="1242" tvg-logo="https://upload.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视HD
 http://10.0.1.6:4022/udp/239.49.8.83:8000/
 #EXTINF:0 channelID="x-ID.243" tvg-chno="1243" tvg-name="东方卫视HD" tvg-id="1243" tvg-logo="http://10.0.1.6:34400/images/e085df055bba7a3691302f78439741f8.png" group-title="卫视",东方卫视HD
 http://10.0.1.6:4022/udp/239.49.8.17:9606/
