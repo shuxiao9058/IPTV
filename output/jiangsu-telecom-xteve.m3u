@@ -193,8 +193,6 @@ http://iptv.lan:4022/udp/239.49.8.10:8000/
 http://iptv.lan:4022/udp/239.49.8.35:8620/
 #EXTINF:0 channelID="x-ID.240" tvg-chno="1240" tvg-name="浙江卫视HD" tvg-id="1240" tvg-logo="http://iptv.lan:34400/images/9555055b8d01b4642afc0e6d469e8c18.png" group-title="卫视",浙江卫视HD
 http://iptv.lan:4022/udp/239.49.8.20:9618/
-#EXTINF:0 channelID="x-ID.241" tvg-chno="1241" tvg-name="环球购物HD" tvg-id="1241" tvg-logo="" group-title="其他",环球购物HD
-# http://iptv.lan:4022/udp/239.49.8.123:8000/
 #EXTINF:0 channelID="x-ID.242" tvg-chno="1242" tvg-name="海南卫视HD" tvg-id="1242" tvg-logo="https://upload.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视HD
 http://iptv.lan:4022/udp/239.49.8.83:8000/
 #EXTINF:0 channelID="x-ID.243" tvg-chno="1243" tvg-name="东方卫视HD" tvg-id="1243" tvg-logo="http://iptv.lan:34400/images/e085df055bba7a3691302f78439741f8.png" group-title="卫视",东方卫视HD
@@ -213,8 +211,6 @@ http://iptv.lan:4022/udp/239.49.8.15:9430/
 http://iptv.lan:4022/udp/239.49.8.7:9306/
 #EXTINF:0 channelID="x-ID.250" tvg-chno="1250" tvg-name="湖北卫视HD" tvg-id="1250" tvg-logo="http://iptv.lan:34400/images/6bf39db0a007ddbf939ba5b03f382732.png" group-title="卫视",湖北卫视HD
 http://iptv.lan:4022/udp/239.49.8.8:9632/
-#EXTINF:0 channelID="x-ID.252" tvg-chno="1252" tvg-name="央广购物HD" tvg-id="1252" tvg-logo="http://iptv.lan:34400/images/a940b7d62ef45f64cbe50a716a40c926.png" group-title="央视",央广购物HD
-# http://iptv.lan:4022/udp/239.49.0.39:8000/
 #EXTINF:0 channelID="x-ID.253" tvg-chno="1253" tvg-name="财富天下" tvg-id="1253" tvg-logo="http://iptv.lan:34400/images/80a7c0f5392675a5554ec6c721887552.png" group-title="其他",财富天下
 http://iptv.lan:4022/udp/239.49.0.166:9322/
 #EXTINF:0 channelID="x-ID.254" tvg-chno="1254" tvg-name="第一财经HD" tvg-id="1254" tvg-logo="http://iptv.lan:34400/images/af413f8cf47efbd09eaa811e632f38ee.png" group-title="其他",第一财经HD
