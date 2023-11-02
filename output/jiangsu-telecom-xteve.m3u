@@ -4,7 +4,7 @@ http://10.0.1.6:4022/udp/239.49.8.19:9614/
 #EXTINF:0 channelID="x-ID.2" tvg-chno="1001" tvg-name="CCTV2HD" tvg-id="1001" tvg-logo="http://10.0.1.6:34400/images/2c1e963964c1d109f61142f4f22040f5.png" group-title="央视",CCTV2HD
 http://10.0.1.6:4022/udp/239.49.8.50:9802/
 #EXTINF:0 channelID="x-ID.3" tvg-chno="1002" tvg-name="CCTV3HD" tvg-id="1002" tvg-logo="http://10.0.1.6:34400/images/2308abe7bdb77172a08d4debc31599e8.png" group-title="央视",CCTV3HD
-http://10.0.1.6:4022/udp/239.49.9.31:6000IP/
+http://10.0.1.6:4022/udp/239.49.9.31:6000/
 #EXTINF:0 channelID="x-ID.4" tvg-chno="1003" tvg-name="CCTV4HD" tvg-id="1003" tvg-logo="http://10.0.1.6:34400/images/cf69819382ed940e4ef0f797bda4a8d4.png" group-title="央视",CCTV4HD
 http://10.0.1.6:4022/udp/239.49.8.51:9806/
 #EXTINF:0 channelID="x-ID.33" tvg-chno="1004" tvg-name="CCTV5" tvg-id="1004" tvg-logo="http://10.0.1.6:34400/images/3010f403437ac0253faba44a386a0de1.png" group-title="央视",CCTV5
