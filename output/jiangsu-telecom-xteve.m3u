@@ -81,10 +81,10 @@ http://192.168.199.1:4022/udp/239.49.0.72:8568/
 http://192.168.199.1:4022/udp/239.49.8.79:8000/
 #EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="金鹰卡通HD" tvg-id="1040" tvg-logo="http://192.168.199.1:34400/images/48301b8815e29fedc1cb932962df0d16.png" group-title="金鹰",金鹰卡通HD
 http://192.168.199.1:4022/udp/239.49.8.33:8000/
-#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="全纪实HD" tvg-id="1041" tvg-logo="http://192.168.199.1:34400/images/d2815a7500d41b2135ce39e172c3a1bc.png" group-title="上海文广",全纪实HD
-http://192.168.199.1:4022/udp/239.49.8.179:6000/
-#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="魅力足球HD" tvg-id="1042" tvg-logo="http://192.168.199.1:34400/images/6d6cf43534921f2732983523af66a38f.png" group-title="上海文广",魅力足球HD
-http://192.168.199.1:4022/udp/239.49.8.181:6000/
+# #EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="全纪实HD" tvg-id="1041" tvg-logo="http://192.168.199.1:34400/images/d2815a7500d41b2135ce39e172c3a1bc.png" group-title="上海文广",全纪实HD
+# http://192.168.199.1:4022/udp/239.49.8.179:6000/
+# #EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="魅力足球HD" tvg-id="1042" tvg-logo="http://192.168.199.1:34400/images/6d6cf43534921f2732983523af66a38f.png" group-title="上海文广",魅力足球HD
+# http://192.168.199.1:4022/udp/239.49.8.181:6000/
 #EXTINF:0 channelID="x-ID.137" tvg-chno="1137" tvg-name="CCTV11HD" tvg-id="1137" tvg-logo="http://192.168.199.1:34400/images/5f8db443a53bdaaa3300005e3deb9ca8.png" group-title="央视",CCTV11HD
 http://192.168.199.1:4022/udp/239.49.0.127:8000/
 #EXTINF:0 channelID="x-ID.139" tvg-chno="1139" tvg-name="CCTV新闻" tvg-id="1139" tvg-logo="http://192.168.199.1:34400/images/e0a5b6ef81b9f1290cb6b26b22572565.png" group-title="央视",CCTV新闻
