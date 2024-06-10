@@ -109,8 +109,8 @@ rtp://239.49.0.22:8168/
 rtp://239.49.0.112:8000/
 #EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="家有购物" tvg-id="1156" tvg-logo="http://192.168.199.1:34400/images/d6f6e64428824825c8a9fddaa0b7beae.png" group-title="其他",家有购物
 rtp://239.49.8.124:8000/
-#EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="学习频道" tvg-id="1158" tvg-logo="http://192.168.199.1:34400/images/bd94057f50dd99eabeee81c79713a5e6.png" group-title="其他",学习频道
-rtp://239.49.0.210:8884/
+# #EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="学习频道" tvg-id="1158" tvg-logo="http://192.168.199.1:34400/images/bd94057f50dd99eabeee81c79713a5e6.png" group-title="其他",学习频道
+# rtp://239.49.0.210:8884/
 #EXTINF:0 channelID="x-ID.187" tvg-chno="1187" tvg-name="山西卫视" tvg-id="1187" tvg-logo="http://192.168.199.1:34400/images/f7683f93fee191cbb321ec68963dc62c.png" group-title="卫视",山西卫视
 rtp://239.49.0.67:8528/
 #EXTINF:0 channelID="x-ID.189" tvg-chno="1189" tvg-name="青海卫视" tvg-id="1189" tvg-logo="http://192.168.199.1:34400/images/c32fd1ba3dedeb4f890d0a3acbb9878e.png" group-title="卫视",青海卫视
