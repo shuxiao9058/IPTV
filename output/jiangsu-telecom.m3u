@@ -75,8 +75,8 @@ rtp://239.49.0.205:8000/
 rtp://239.49.8.193:8000/
 #EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="CCTV奥林匹克频道" tvg-id="1037" tvg-logo="http://192.168.199.1:34400/images/6ba2f8d4119de46e6394bc3eca5625c8.png" group-title="央视",CCTV奥林匹克频道
 rtp://239.49.0.109:8000/
-# #EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="CETV4" tvg-id="1038" tvg-logo="" group-title="其他",CETV4
-# rtp:://239.49.0.125:8000/
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="CETV4" tvg-id="1038" tvg-logo="" group-title="其他",CETV4
+rtp://239.49.0.72:8568/
 #EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="金鹰纪实HD" tvg-id="1039" tvg-logo="http://192.168.199.1:34400/images/33d07ace2722e04542b1b3ccdf204169.png" group-title="金鹰",金鹰纪实HD
 rtp://239.49.8.79:8000/
 #EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="金鹰卡通HD" tvg-id="1040" tvg-logo="http://192.168.199.1:34400/images/48301b8815e29fedc1cb932962df0d16.png" group-title="金鹰",金鹰卡通HD
@@ -119,8 +119,8 @@ rtp://239.49.0.69:8544/
 rtp://239.49.0.70:8552/
 #EXTINF:0 channelID="x-ID.191" tvg-chno="1191" tvg-name="CETV2" tvg-id="1191" tvg-logo="http://192.168.199.1:34400/images/48f7044e637ba19734876ede2382418a.png" group-title="其他",CETV2
 rtp://239.49.0.71:8560/
-#EXTINF:0 channelID="x-ID.192" tvg-chno="1192" tvg-name="空中课堂" tvg-id="1192" tvg-logo="http://192.168.199.1:34400/images/9698a02b607a7f7ba324f0c4c1cabdac.png" group-title="其他",空中课堂
-rtp://239.49.0.72:8568/
+# #EXTINF:0 channelID="x-ID.192" tvg-chno="1192" tvg-name="空中课堂" tvg-id="1192" tvg-logo="http://192.168.199.1:34400/images/9698a02b607a7f7ba324f0c4c1cabdac.png" group-title="其他",空中课堂
+# rtp://239.49.0.72:8568/
 #EXTINF:0 channelID="x-ID.195" tvg-chno="1195" tvg-name="直播室108" tvg-id="1195" tvg-logo="" group-title="直播",直播室108
 rtp://239.49.8.58:9334/
 #EXTINF:0 channelID="x-ID.196" tvg-chno="1196" tvg-name="直播室109" tvg-id="1196" tvg-logo="" group-title="直播",直播室109
@@ -133,8 +133,8 @@ rtp://239.49.8.61:9346/
 rtp://239.49.0.156:9242/
 #EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="央视怀旧剧场" tvg-id="1206" tvg-logo="" group-title="央视",央视怀旧剧场
 rtp://239.49.0.157:9250/
-#EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="导视" tvg-id="1209" tvg-logo="http://192.168.199.1:34400/images/ed2daa980b881abe161e9dda7515104d.png" group-title="其他",导视
-rtp://239.49.0.80:8632/
+# #EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="导视" tvg-id="1209" tvg-logo="http://192.168.199.1:34400/images/ed2daa980b881abe161e9dda7515104d.png" group-title="其他",导视
+# rtp://239.49.0.80:8632/
 #EXTINF:0 channelID="x-ID.210" tvg-chno="1210" tvg-name="直播室208" tvg-id="1210" tvg-logo="" group-title="直播",直播室208
 rtp://239.49.0.140:9350/
 #EXTINF:0 channelID="x-ID.211" tvg-chno="1211" tvg-name="直播室209" tvg-id="1211" tvg-logo="" group-title="直播",直播室209
