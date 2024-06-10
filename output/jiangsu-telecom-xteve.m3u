@@ -221,5 +221,5 @@ http://192.168.199.1:4022/udp/239.49.0.166:9322/
 http://192.168.199.1:4022/udp/239.49.8.37:8000/
 #EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="苏州生活资讯" tvg-id="1255" tvg-logo="" group-title="地方台",苏州生活资讯
 http://192.168.199.1:4022/udp/239.49.8.116:8000/
-#EXTINF:0 channelID="x-ID.256" tvg-chno="1256" tvg-name="三沙卫视HD" tvg-id="1256" tvg-logo="" group-title="卫视",三沙卫视HD
+#EXTINF:0 channelID="x-ID.256" tvg-chno="1256" tvg-name="三沙卫视HD" tvg-id="1256" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视",三沙卫视HD
 http://192.168.199.1:4022/udp/239.49.0.167:8000/
