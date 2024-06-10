@@ -103,8 +103,8 @@ http://192.168.199.1:4022/udp/239.49.8.117:8000/
 http://192.168.199.1:4022/udp/239.49.8.119:8000/
 #EXTINF:0 channelID="x-ID.151" tvg-chno="1151" tvg-name="江苏国际" tvg-id="1151" tvg-logo="http://192.168.199.1:34400/images/bd6dbd77a332775da182ff703d3cfd33.png" group-title="地方台",江苏国际
 http://192.168.199.1:4022/udp/239.49.0.22:8168/
-#EXTINF:0 channelID="x-ID.153" tvg-chno="1153" tvg-name="靓妆频道" tvg-id="1153" tvg-logo="http://192.168.199.1:34400/images/9531bbca407dbc24550d8ea909ff0b88.png" group-title="其他",靓妆频道
-http://192.168.199.1:4022/udp/239.49.0.150:9194/
+# #EXTINF:0 channelID="x-ID.153" tvg-chno="1153" tvg-name="靓妆频道" tvg-id="1153" tvg-logo="http://192.168.199.1:34400/images/9531bbca407dbc24550d8ea909ff0b88.png" group-title="其他",靓妆频道
+# http://192.168.199.1:4022/udp/239.49.0.150:9194/
 #EXTINF:0 channelID="x-ID.155" tvg-chno="1155" tvg-name="CCTV中视购物" tvg-id="1155" tvg-logo="http://192.168.199.1:34400/images/f4a232405d39aaada4c50b4cd1da991f.png" group-title="央视",CCTV中视购物
 http://192.168.199.1:4022/udp/239.49.0.112:8000/
 #EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="家有购物" tvg-id="1156" tvg-logo="http://192.168.199.1:34400/images/d6f6e64428824825c8a9fddaa0b7beae.png" group-title="其他",家有购物
