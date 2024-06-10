@@ -75,8 +75,8 @@ http://192.168.199.1:4022/udp/239.49.0.205:8000/
 http://192.168.199.1:4022/udp/239.49.8.193:8000/
 #EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="CCTV奥林匹克频道" tvg-id="1037" tvg-logo="http://192.168.199.1:34400/images/6ba2f8d4119de46e6394bc3eca5625c8.png" group-title="央视",CCTV奥林匹克频道
 http://192.168.199.1:4022/udp/239.49.0.109:8000/
-#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="CETV4" tvg-id="1038" tvg-logo="" group-title="其他",CETV4
-rtp:://239.49.0.125:8000/
+# #EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="CETV4" tvg-id="1038" tvg-logo="" group-title="其他",CETV4
+# rtp:://239.49.0.125:8000/
 #EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="金鹰纪实HD" tvg-id="1039" tvg-logo="http://192.168.199.1:34400/images/33d07ace2722e04542b1b3ccdf204169.png" group-title="金鹰",金鹰纪实HD
 http://192.168.199.1:4022/udp/239.49.8.79:8000/
 #EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="金鹰卡通HD" tvg-id="1040" tvg-logo="http://192.168.199.1:34400/images/48301b8815e29fedc1cb932962df0d16.png" group-title="金鹰",金鹰卡通HD
