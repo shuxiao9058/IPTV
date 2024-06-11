@@ -75,7 +75,7 @@ rtp://239.49.0.205:8000/
 rtp://239.49.8.193:8000/
 #EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="CCTV奥林匹克频道" tvg-id="1037" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道
 rtp://239.49.0.109:8000/
-#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="CETV4" tvg-id="1038" tvg-logo="" group-title="其他",CETV4
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="CETV4" tvg-id="1038" tvg-logo="https://upload.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
 rtp://239.49.0.72:8568/
 #EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="金鹰纪实HD" tvg-id="1039" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="金鹰",金鹰纪实HD
 rtp://239.49.8.79:8000/
@@ -131,7 +131,7 @@ rtp://239.49.8.60:9342/
 rtp://239.49.8.61:9346/
 #EXTINF:0 channelID="x-ID.205" tvg-chno="1205" tvg-name="央视精品" tvg-id="1205" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视",央视精品
 rtp://239.49.0.156:9242/
-#EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="央视怀旧剧场" tvg-id="1206" tvg-logo="" group-title="央视",央视怀旧剧场
+#EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="央视怀旧剧场" tvg-id="1206" tvg-logo="https://upload.112114.xyz/logo/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视",央视怀旧剧场
 rtp://239.49.0.157:9250/
 # #EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="导视" tvg-id="1209" tvg-logo="https://upload.112114.xyz/logo/%E5%AF%BC%E8%A7%86.png" group-title="其他",导视
 # rtp://239.49.0.80:8632/
@@ -143,7 +143,7 @@ rtp://239.49.0.141:9354/
 rtp://239.49.0.142:9358/
 #EXTINF:0 channelID="x-ID.213" tvg-chno="1213" tvg-name="直播室211" tvg-id="1213" tvg-logo="" group-title="直播",直播室211
 rtp://239.49.0.143:9362/
-#EXTINF:0 channelID="x-ID.214" tvg-chno="1214" tvg-name="精彩推荐" tvg-id="1214" tvg-logo="" group-title="其他",精彩推荐
+#EXTINF:0 channelID="x-ID.214" tvg-chno="1214" tvg-name="精彩推荐" tvg-id="1214" tvg-logo="https://upload.112114.xyz/logo/%E7%B2%BE%E5%BD%A9%E6%8E%A8%E8%8D%90.png" group-title="其他",精彩推荐
 rtp://239.49.0.190:9458/
 #EXTINF:0 channelID="x-ID.215" tvg-chno="1215" tvg-name="直播室101" tvg-id="1215" tvg-logo="" group-title="直播",直播室101
 rtp://239.49.8.21:9136/
@@ -219,7 +219,7 @@ rtp://239.49.0.39:8000/
 rtp://239.49.0.166:9322/
 #EXTINF:0 channelID="x-ID.254" tvg-chno="1254" tvg-name="第一财经HD" tvg-id="1254" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="其他",第一财经HD
 rtp://239.49.8.37:8000/
-#EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="苏州生活资讯" tvg-id="1255" tvg-logo="" group-title="地方台",苏州生活资讯
+#EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="苏州生活资讯" tvg-id="1255" tvg-logo="https://upload.112114.xyz/logo/%E8%8B%8F%E5%B7%9E%E7%94%9F%E6%B4%BB%E8%B5%84%E8%AE%AF.png" group-title="地方台",苏州生活资讯
 rtp://239.49.8.116:8000/
 #EXTINF:0 channelID="x-ID.256" tvg-chno="1256" tvg-name="三沙卫视HD" tvg-id="1256" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视HD
 rtp://239.49.0.167:8000/
